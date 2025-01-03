@@ -1,0 +1,2999 @@
+,japanese,English
+0,行く,iku - go
+1,見る,"miru - see, look at"
+2,多い,"ooi - a lot of, many"
+3,家,"ie - home, household"
+4,これ,"kore - this, this one"
+5,それ,"sore - that, that one"
+6,私,watashi - I
+7,仕事,"shigoto - work, job"
+8,いつ,itsu - when
+9,する,"suru - do, make"
+10,出る,"deru - go out, leave"
+11,使う,"tsukau - use, make use of"
+12,所,tokoro - place
+13,作る,"tsukuru - make, create"
+14,思う,omou - think
+15,持つ,"motsu - have, possess"
+16,買う,kau - buy
+17,時間,"jikan - time, hour"
+18,知る,shiru - know
+19,同じ,"onaji - same, identical"
+20,今,ima - now
+21,新しい,atarashii - new
+22,なる,naru - become
+23,まだ,"mada - (not) yet, still"
+24,あと,ato - after
+25,聞く,"kiku - hear, ask"
+26,言う,"iu - say, tell"
+27,少ない,"sukunai - few, little"
+28,高い,"takai - high, tall"
+29,子供,kodomo - child
+30,そう,"sou - so, that way"
+31,もう,"mou - already, yet"
+32,学生,gakusei - student
+33,熱い,atsui - hot (to touch)
+34,どうぞ,douzo - please
+35,午後,"gogo - afternoon, p.m."
+36,長い,nagai - long
+37,本,"hon - book, volume"
+38,今年,kotoshi - this year (colloquial)
+39,よく,"yoku - often, well"
+40,彼女,"kanojo - she, one’s girlfriend"
+41,どう,"dou - how, what"
+42,言葉,"kotoba - word, language"
+43,顔,kao - face
+44,終わる,"owaru - finish, end"
+45,一つ,hitotsu - one (thing)
+46,あげる,"ageru - give, offer (colloquial)"
+47,こう,"kou - like this, such"
+48,学校,gakkou - school
+49,くれる,kureru - be given
+50,始める,hajimeru - start (something)
+51,起きる,"okiru - get up, get out of bed"
+52,春,haru - spring
+53,午前,"gozen - morning, a.m."
+54,別,"betsu - another, different"
+55,どこ,doko - where
+56,部屋,heya - room
+57,若い,wakai - young
+58,車,"kuruma - car, automobile"
+59,置く,"oku - put, place"
+60,住む,"sumu - live, reside"
+61,働く,hataraku - work
+62,難しい,muzukashii - difficult
+63,先生,sensei - teacher
+64,立つ,"tatsu - stand, rise"
+65,呼ぶ,"yobu - call, name"
+66,大学,"daigaku - university, college"
+67,安い,"yasui - cheap, inexpensive"
+68,もっと,motto - more
+69,帰る,kaeru - go back home
+70,分かる,wakaru - understand
+71,広い,"hiroi - wide, big"
+72,数,suu - number
+73,近い,"chikai - near, close"
+74,そこ,soko - there
+75,走る,hashiru - run
+76,入れる,ireru - put in
+77,教える,"oshieru - teach, tell"
+78,歩く,"aruku - walk, go on foot"
+79,会う,au - meet
+80,書く,kaku - write
+81,頭,atama - head
+82,売る,uru - sell
+83,大好き,daisuki - like (something) a lot
+84,体,"karada - body, physique"
+85,直ぐ,"sugu - at once, soon"
+86,飛ぶ,tobu - fly
+87,とても,totemo - very (colloquial)
+88,誰,dare - who
+89,好き,"suki - favorite, liked"
+90,読む,yomu - read
+91,次,tsugi - next
+92,あなた,anata - you
+93,飲む,nomu - drink
+94,古い,furui - old
+95,質問,shitsumon - question
+96,今日,kyou - today (colloquial)
+97,友達,"tomodachi - friend, companion (colloquial)"
+98,早い,hayai - early
+99,どれ,"dore - what, which"
+100,美しい,utsukushii - beautiful
+101,いつも,itsumo - always (colloquial)
+102,足,"ashi - leg, foot"
+103,起こす,okosu - wake (someone) up
+104,見せる,miseru - show
+105,娘,"musume - daughter, girl"
+106,楽しむ,tanoshimu - enjoy
+107,色,iro - color
+108,みんな,minna - everybody (colloquial)
+109,取る,"toru - take, get"
+110,勉強,benkyou - study
+111,できる,"dekiru - can do, be good at"
+112,短い,"mijikai - short, brief"
+113,落ちる,"ochiru - fall, come down"
+114,息子,musuko - son
+115,白い,"shiroi - white, blank"
+116,飛行機,hikouki - airplane
+117,病気,byouki - illness
+118,冬,fuyu - winter
+119,年,"toshi - year, age"
+120,重い,omoi - heavy
+121,胸,"mune - chest, breast"
+122,払う,"harau - pay (money, respect, attention, etc.)"
+123,軽い,karui - light (of weight)
+124,見つける,mitsukeru - find
+125,忘れる,"wasureru - forget, leave behind"
+126,酒,"sake - alcohol, rice wine"
+127,どちら,dochira - which (polite)
+128,姉,ane - (one’s own) older sister
+129,覚える,"oboeru - memorize, learn"
+130,狭い,"semai - narrow, small"
+131,赤い,akai - red
+132,着る,"kiru - wear, put on"
+133,笑う,"warau - laugh, smile"
+134,一番,"ichiban - most, best"
+135,授業,"jugyou - class session, lecture"
+136,週,shuu - week
+137,漢字,kanji - Chinese character
+138,自転車,jitensha - bicycle
+139,電車,densha - train
+140,探す,"sagasu - search for, look for"
+141,紙,kami - paper
+142,歌う,utau - sing
+143,遅い,"osoi - slow, late"
+144,首,kubi - neck
+145,速い,hayai - fast
+146,一緒に,"issho ni - together, at the same time"
+147,今月,kongetsu - this month
+148,遊ぶ,asobu - play
+149,遠い,"tooi - far, distant"
+150,弱い,yowai - weak
+151,耳,mimi - ear
+152,座る,"suwaru - sit, sit down"
+153,右,migi - right
+154,浴びる,abiru - take (a shower)
+155,肩,kata - shoulder
+156,寝る,"neru - lie down and sleep, go to sleep"
+157,消す,"kesu - switch off, turn off"
+158,元気,"genki - healthy, energetic"
+159,全部,"zenbu - all, whole"
+160,去年,kyonen - last year (colloquial)
+161,引く,"hiku - draw, pull"
+162,図書館,toshokan - library
+163,上げる,"ageru - raise, lift"
+164,緑,midori - green
+165,腕,ude - arm
+166,ドア,doa - door (loan word)
+167,女の子,onna no ko - little girl
+168,男の子,otoko no ko - boy
+169,私たち,watashitachi - we (colloquial)
+170,近く,"chikaku - near, close to"
+171,やる,"yaru - do, give"
+172,かなり,"kanari - fairly, rather"
+173,国,kuni - country
+174,起こる,okoru - happen
+175,秋,"aki - autumn, fall"
+176,送る,okuru - send
+177,死ぬ,shinu - die
+178,気持ち,"kimochi - feeling, sensation"
+179,乗る,"noru - ride, take"
+180,いる,"iru - be present, stay"
+181,木,"ki - tree, wood"
+182,開ける,"akeru - open, unlock (doors, windows, etc.)"
+183,閉める,"shimeru - shut, close (doors, windows, etc.)"
+184,続く,"tsuzuku - continue, follow"
+185,お医者さん,oishasan - doctor (polite)
+186,円,en - Japanese yen
+187,ここ,koko - here
+188,待つ,"matsu - wait, wait for"
+189,低い,"hikui - low, short"
+190,もらう,morau - receive
+191,食べる,taberu - eat
+192,兄,ani - (one’s own) older brother
+193,名前,namae - name
+194,夫,otto - husband
+195,一,ichi - one
+196,結婚,kekkon - marriage
+197,親,oya - parent
+198,話す,"hanasu - speak, talk"
+199,少し,"sukoshi - a bit, a little while"
+200,閉じる,"tojiru - shut, close (books, eyes, etc.)"
+201,時,"toki - time, moment"
+202,米,kome - rice (grain)
+203,切る,kiru - cut
+204,楽しい,"tanoshii - fun, enjoyable"
+205,服,fuku - clothes (colloquial)
+206,後ろ,"ushiro - back, behind"
+207,嬉しい,"ureshii - happy, glad"
+208,腰,"koshi - waist, lower back"
+209,日曜日,nichiyoubi - Sunday
+210,昼,"hiru - daytime, midday"
+211,お母さん,okaasan - mother (colloquial)
+212,大学生,daigakusei - university student
+213,終わり,"owari - end, conclusion"
+214,背,"se - height, stature"
+215,手伝う,"tetsudau - help, assist"
+216,鼻,hana - nose
+217,起きる,"okiru - occur, happen, wake up, get up"
+218,載せる,"noseru - place, put on"
+219,悲しい,kanashii - sad
+220,しゃべる,"shaberu - chat, talk"
+221,近く,"chikaku - in the near future, before long"
+222,甘い,amai - sweet
+223,テーブル,te-buru - table
+224,食べ物,tabemono - food (colloquial)
+225,始まる,hajimaru - begin
+226,ゲーム,ge-mu - game
+227,十,juu - ten
+228,天気,tenki - weather
+229,暑い,atsui - hot (of weather)
+230,太い,"futoi - thick, fat"
+231,晩,"ban - evening, night (from sunset to bedtime)"
+232,土曜日,doyoubi - Saturday
+233,痛い,"itai - sore, painful"
+234,お父さん,"otousan - father, dad (colloquial)"
+235,多分,"tabun - probably, perhaps"
+236,時計,"tokei - clock, watch"
+237,泊まる,tomaru - stay overnight
+238,どうして,doushite - how come
+239,掛ける,"kakeru - hang, put on"
+240,曲がる,"magaru - make a turn, turn"
+241,お腹,"onaka - stomach, belly"
+242,ミーティング,mi-tingu - meeting
+243,嫌い,kirai - dislike (habitual)
+244,金曜日,kinyoubi - Friday
+245,要る,"iru - need, require"
+246,無い,nai - to not be
+247,風邪,kaze - cold (illness)
+248,黄色い,kiiroi - yellow
+249,優しい,"yasashii - gentle, kind"
+250,晴れる,"hareru - be sunny, clear up"
+251,汚い,kitanai - dirty
+252,茶色,chairo - brown
+253,空く,"suku - be empty, become less crowded"
+254,上る,"noboru - go up, climb"
+255,ご飯,"gohan - meal, cooked rice"
+256,日,nichi - counter for days
+257,髪の毛,"kaminoke - hair, each single hair"
+258,つける,"tsukeru - switch on, turn on"
+259,月曜日,getsuyoubi - Monday
+260,入る,hairu - enter
+261,カタカナ,katakana - katakana
+262,今週,konshuu - this week
+263,開く,"hiraku - open (books, eyes, etc.)"
+264,水,mizu - water
+265,あれ,are - that (over there)
+266,二,ni - two
+267,締める,"shimeru - tighten, fasten"
+268,まずい,"mazui - bad (taste), distasteful"
+269,平仮名,hiragana - hiragana
+270,曇る,kumoru - become cloudy
+271,触る,"sawaru - touch, feel"
+272,駄目,dame - no good
+273,飲み物,"nomimono - beverage, drink"
+274,木曜日,mokuyoubi - Thursday
+275,曜日,youbi - day of the week
+276,そば,"soba - side, vicinity"
+277,こっち,"kocchi - here, this way (casual)"
+278,火曜日,kayoubi - Tuesday
+279,渇く,kawaku - be thirsty
+280,三,san - three
+281,水曜日,suiyoubi - Wednesday
+282,二つ,futatsu - two (things)
+283,今晩,"konban - this evening, tonight"
+284,千,sen - thousand
+285,六日,"muika - six days, sixth of the month"
+286,お姉さん,onesan - older sister
+287,直る,"naoru - be repaired, get fixed"
+288,ちょっと,"chotto - just a moment, just a little"
+289,四,yon - four (Japanese origin)
+290,これから,"korekara - from now on, after this"
+291,考える,"kangaeru - think, consider"
+292,戻る,modoru - return to a point of departure
+293,変える,"kaeru - change (something), alter"
+294,朝,asa - morning
+295,歯,ha - tooth
+296,頑張る,"ganbaru - work hard, do one’s best"
+297,携帯電話,keitaidenwa - cellular phone
+298,雨,ame - rain
+299,金,kane - money (colloquial)
+300,易しい,"yasashii - easy, simple (colloquial)"
+301,お兄さん,oniisan - older brother
+302,大きい,ooki - big
+303,小さい,chiisai - small
+304,辛い,"karai - spicy, hot"
+305,八,hachi - eight
+306,あそこ,asoko - over there
+307,来る,kuru - come
+308,前,"mae - front, before"
+309,五日,"itsuka - five days, fifth of the month"
+310,いっぱい,ippai - full
+311,酸っぱい,suppai - sour
+312,違う,"chigau - differ, be wrong"
+313,細い,"hosoi - thin, slender"
+314,三つ,mittsu - three (things)
+315,八日,"youka - eight days, eighth of the month"
+316,高校生,koukousei - high school student
+317,上手,"jouzu - good, skilled"
+318,強い,tsuyoi - strong
+319,七,nana - seven (Japanese origin)
+320,二十日,"hatsuka - 20 days, 20th of the month"
+321,左,hidari - left
+322,二日,"futsuka - two days, second of the month"
+323,四つ,yottsu - four (things)
+324,暖かい,atatakai - warm
+325,ある,"aru - exist, there is"
+326,いい,ii - good (informal/spoken form)
+327,上,"ue - up, above"
+328,駅,eki - train station
+329,美味しい,oishii - tasty
+330,昨日,kinou - yesterday (colloquial)
+331,綺麗,"kirei - pretty, clean"
+332,五,go - five
+333,九つ,kokonotsu - nine (things)
+334,お願い,onegai - favor
+335,答える,kotaeru - give an answer
+336,先,"saki - ahead, first"
+337,寒い,samui - cold (temperature of the air)
+338,四,shi - four (Chinese origin)
+339,三日,"mikka - three days, third of the month"
+340,下,"shita - under, below"
+341,大丈夫,"daijoubu - all right, OK"
+342,大人,otona - adult
+343,出す,dasu - take out
+344,父,chichi - (speaker’s) father
+345,母,haha - (speaker’s) mother
+346,月,tsuki - moon
+347,妹,imouto - younger sister
+348,冷たい,tsumetai - cold (to touch)
+349,弟,otouto - younger brother
+350,手,te - hand
+351,十日,"tooka - ten days, tenth of the month"
+352,口,kuchi - mouth
+353,夏,natsu - summer
+354,七つ,nanatsu - seven (things)
+355,時々,tokidoki - sometimes
+356,何,nani - what
+357,人,hito - person
+358,一人,hitori - one person
+359,一日,tsuitachi - first of the month
+360,九日,"kokonoka - nine days, ninth of the month"
+361,方,"hou - direction, side"
+362,他,hoka - other (Japanese origin)
+363,僕,"boku - I, me (usually used by young males)"
+364,欲しい,"hoshii - want, desire (of the speaker)"
+365,万,man - ten thousand
+366,見える,"mieru - be visible, can see"
+367,道,"michi - street, way"
+368,五つ,itsutsu - five (things)
+369,目,me - eye
+370,八つ,yattsu - eight (things)
+371,止める,tomeru - stop (a car…). 止める (yameru) give up
+372,四日,"yokka - four days, fourth of the month"
+373,夜,yoru - night (from sunset to sunrise)
+374,来年,rainen - next year
+375,六,roku - six
+376,悪い,warui - bad
+377,お手洗い,"otearai - toilet, bathroom"
+378,ご主人,goshujin - (someone else’s) husband
+379,本当に,"hontouni - really, truly"
+380,自分,"jibun - self, oneself"
+381,ため,"tame - sake, purpose"
+382,見つかる,"mitsukaru - be found, be caught"
+383,休む,"yasumu - take a rest, take a break"
+384,ゆっくり,yukkuri - slowly
+385,六つ,muttsu - six (things)
+386,花,hana - flower
+387,動く,ugoku - move
+388,線,sen - line
+389,七日,"nanoka - seven days, seventh of the month"
+390,以外,igai - except for
+391,男,"otoko - man, male"
+392,彼,"kare - he, one’s boyfriend"
+393,女,onna - woman
+394,妻,tsuma - woman
+395,百,hyaku - hundred
+396,辺,atari - vicinity
+397,店,"mise - shop, store"
+398,閉まる,"shimaru - be shut, be closed"
+399,問題,"mondai - problem, question"
+400,必要,"hitsuyou - need, necessary"
+401,もつ,"motsu - last long, be durable"
+402,開く,hiraku - open
+403,昨年,"sakunen - last year (formal, often used in writing)"
+404,治る,"naoru - be cured, get well"
+405,ドル,doru - dollar
+406,システム,shisutemu - system (loan word)
+407,以上,"ijou - more than, not less than"
+408,最近,"saikin - recent, latest"
+409,世界,sekai - world
+410,コンピューター,konpyu-ta- - computer
+411,やる,yaru - give (to an inferior)
+412,意味,"imi - meaning, sense"
+413,増える,"fueru - increase, accrue"
+414,選ぶ,"erabu - choose, elect"
+415,生活,"seikatsu - life, living"
+416,進める,"susumeru - go ahead, proceed"
+417,続ける,"tsuzukeru - continue, keep up"
+418,ほとんど,"hotondo - almost, hardly"
+419,会社,"kaisha - company, corporation"
+420,家,"ie - house, dwelling"
+421,多く,"ooku - much, largely"
+422,話,"hanashi - talk, story"
+423,上がる,"agaru - go up, rise (physical movement)"
+424,もう,"mou - another, again"
+425,集める,"atsumeru - collect, gather"
+426,声,"koe - voice, sound"
+427,初めて,hajimete - for the first time
+428,変わる,"kawaru - change, turn into"
+429,まず,"mazu - first of all, to begin with"
+430,社会,shakai - society
+431,プログラム,puroguramu - program booklet
+432,力,"chikara - strength, power"
+433,今回,konkai - this time
+434,予定,"yotei - schedule, plan"
+435,まま,"mama - as is, still (in the current state)"
+436,テレビ,terebi - television
+437,減る,"heru - decrease, diminish"
+438,消える,"kieru - be extinguished, disappear"
+439,家族,"kazoku - family, household"
+440,比べる,"kuraberu - compare, contrast"
+441,生まれる,"umareru - be born, come into existence"
+442,ただ,tada - free
+443,これら,korera - these
+444,調べる,"shiraberu - investigate, check"
+445,事故,"jiko - accident, trouble"
+446,電話,"denwa - telephone, phone call"
+447,外国,gaikoku - foreign country
+448,銀行,ginkou - bank
+449,十分,"juubun - enough, plentiful"
+450,あまり,amari - (not) much
+451,写真,shashin - photograph
+452,繰り返す,kurikaesu - repeat
+453,種類,"shurui - kind, type"
+454,意見,iken - opinion
+455,新聞,shinbun - newspaper
+456,文章,"bunshou - sentence, writing"
+457,目立つ,"medatsu - stand out, be conspicuous"
+458,相手,"aite - opponent, the other party"
+459,病院,byouin - hospital
+460,厚い,"atsui - thick, bulky"
+461,忙しい,"isogashii - busy, occupied"
+462,薄い,"usui - thin, weak"
+463,川,"kawa - river, stream"
+464,暗い,"kurai - dark, gloomy"
+465,クラス,kurasu - class (in school)
+466,黒い,"kuroi - black, dark"
+467,バス,basu - bus
+468,青い,aoi - blue
+469,買い物,"kaimono - shopping, purchase"
+470,薬,"kusuri - drug, medicine"
+471,砂糖,satou - sugar
+472,休み,"yasumi - holiday, break"
+473,郵便局,yuubinkyoku - post office
+474,住所,juusho - address
+475,こちら,"kochira - here, this way (polite)"
+476,財布,"saifu - purse, wallet"
+477,パスポート,pasupo-to - passport
+478,椅子,isu - chair
+479,可愛い,"kawaii - cute, sweet"
+480,お祖父さん,ojiisan - grandfather (colloquial)
+481,切手,kitte - postage stamp
+482,涼しい,suzushii - cool (of temperature)
+483,いくつ,"ikutsu - how many, how old"
+484,メニュー,menyu- - menu
+485,電気,"denki - electricity, electric light"
+486,勝つ,katsu - win
+487,負ける,makeru - lose
+488,建てる,"tateru - build, erect"
+489,日記,nikki - diary
+490,売り切れ,urikire - sell out
+491,お巡りさん,omawarisan - police officer (colloquial)
+492,目覚まし時計,mezamashitokei - alarm clock
+493,レシート,reshi-to - receipt (loan word)
+494,ティッシュ,tisshu - tissue
+495,歯ブラシ,haburashi - toothbrush
+496,下りる,"oriru - go down, come down"
+497,洗う,arau - wash
+498,パート,pa-to - part-time
+499,氏名,shimei - full name
+500,今夜,"konya - tonight, this evening"
+501,夜中,yonaka - midnight
+502,来週,raishuu - next week
+503,誰か,dareka - someone
+504,何,nan - what. それはなんですか. What is that?
+505,今朝,kesa - this morning
+506,寿司,sushi - sushi
+507,履く,"haku - put on (shoes), wear (pants, skirt)"
+508,おじさん,ojisan - uncle
+509,おばさん,obasan - aunt
+510,お祖母さん,obaasan - grandmother (colloquial)
+511,いとこ,itoko - cousin
+512,辞書,jisho - dictionary (category)
+513,朝ご飯,asagohan - breakfast
+514,白,shiro - white
+515,どっち,docchi - which (casual)
+516,そっち,socchi - there (casual)
+517,明日,ashita - tomorrow (colloquial)
+518,明後日,myougonichi/asatte - day after tomorrow (colloquial)
+519,一昨日,ototoi - the day before yesterday (colloquial)
+520,庭,"niwa - garden, yard"
+521,左側,hidarigawa - left side
+522,右側,migigawa - right side
+523,指,"yubi - finger, toe"
+524,眼鏡,megane - glasses
+525,鞄,"kaban - bag, handbag"
+526,あっち,"acchi - other side, over there (casual)"
+527,大人しい,"otonashii - gentle, quiet"
+528,下手,heta - not good at
+529,厳しい,"kibishii - strict, severe"
+530,一人で,"hitoride - by oneself, alone"
+531,答え,"kotae - answer, solution"
+532,この頃,"konogoro - these days, recently"
+533,残念,"zannen - regretful, disappointing"
+534,仕舞う,"shimau - put away, put in"
+535,心配,"shinpai - anxiety, worry"
+536,外,"soto - outside, open air"
+537,大切,"taisetsu - important, valuable"
+538,ちょうど,"choudo - just, exactly"
+539,助ける,"tasukeru - help, save"
+540,勤める,"tsutomeru - serve, hold a job"
+541,連れていく,"tsureteiku - take along, bring along (a person)"
+542,丈夫,"joubu - healthy, sturdy"
+543,賑やか,"nigiyaka - lively, exciting"
+544,眠い,nemui - sleepy
+545,山,yama - mountain
+546,橋,hashi - bridge
+547,止まる,"tomaru - come to a stop, cease"
+548,降る,"furu - fall, come down (rain, snow, etc.)"
+549,本当,"hontou - reality, genuine"
+550,町,"machi - town, city"
+551,お菓子,"okashi - sweets, snacks"
+552,緩い,"yurui - slack, loose"
+553,良い,yoi - good (formal/written form)
+554,ようこそ,youkoso - welcome (greeting)
+555,お土産,omiyage - souvenir (polite)
+556,両親,ryoushin - parents
+557,ウェーター,we-ta- - waiter
+558,ウェートレス,we-toresu - waitress
+559,絶対に,"zettaini - absolutely, definitely"
+560,ごちそう,"gochisou - feast, treat"
+561,フォーク,fo-ku - fork
+562,スプーン,supu-n - spoon
+563,瓶,bin - bottle
+564,つく,"tsuku - be on, be switched on"
+565,醤油,shouyu - soy sauce
+566,茶碗,chawan - rice bowl
+567,決める,"kimeru - decide, agree upon"
+568,感じる,"kanjiru - feel, sense"
+569,生きる,ikiru - live (one’s life)
+570,動かす,ugokasu - move (something)
+571,壊れる,"kowareru - break, break down"
+572,復習,fukushuu - review
+573,眉,mayu - eyebrow
+574,客,"kyaku - visitor, customer"
+575,机,tsukue - desk
+576,風呂,furo - bath
+577,湯,yu - hot water
+578,ぬるい,"nurui - tepid, lukewarm"
+579,風邪薬,kazegusuri - cold medicine
+580,靴下,kutsushita - socks
+581,タバコ,"tabako - tobacco, cigarette"
+582,アイスコーヒー,aisuko-hi- - iced coffee
+583,天ぷら,tempura - Japanese deep-fried food
+584,肉,"niku - flesh, meat"
+585,昨夜,"sakuya - last night, last evening (colloquial)"
+586,流行る,"hayaru - be in fashion, be popular"
+587,連れて来る,tsuretekuru - bring (a person)
+588,方,kata - person (polite form)
+589,零,rei - zero
+590,雲,kumo - cloud
+591,空,sora - sky
+592,人気,ninki - popularity
+593,兄さん,niisan - (one’s own) older brother (polite)
+594,姉さん,neesan - (one’s own) older sister (polite)
+595,平成,heisei - Heisei era
+596,毎月,maitsuki - every month
+597,半日,hannichi - half a day
+598,半月,hantsuki - half a month
+599,なるほど,"naruhodo - I see, really"
+600,つまり,"tsumari - in short, that is to say"
+601,そのまま,"sonomama - as it is, just like that"
+602,はっきり,hakkiri - clearly
+603,大変,"taihen - awful, hard"
+604,簡単,"kantan - simple, easy"
+605,似ている,"niteiru - look like, resemble"
+606,驚く,"odoroku - be surprised, be startled"
+607,嫌,iya/ kira-i - dislike (situational)
+608,喧嘩,"kenka - fight, argument"
+609,遅れる,okureru - be late
+610,にんじん,ninjin - carrot
+611,ジャガイモ,jagaimo - potato
+612,ナス,nasu - eggplant
+613,やかん,yakan - kettle
+614,話し合う,"hanashiau - discuss, talk over"
+615,残す,"nokosu - leave, leave undone"
+616,ごちそうする,"gochisousuru - treat, host (a meal)"
+617,合う,"au - fit, match"
+618,当たる,"ataru - (go straight and) hit, strike"
+619,集まる,"atsumaru - gather, be collected"
+620,場所,"basho - place, space"
+621,海,"umi - sea, ocean"
+622,少年,shounen - boy (between 7 and 18 years old)
+623,孫,mago - grandchild
+624,生徒,"seito - pupil, student"
+625,高校,koukou - high school (for short)
+626,年上,"toshiue - older, senior"
+627,卒業,sotsugyou - graduation
+628,運動,"undou - movement, exercise"
+629,選手,"senshu - athlete, (sports) player"
+630,映画,eiga - movie
+631,英語,eigo - English
+632,手紙,tegami - letter
+633,動物,doubutsu - animal
+634,音,"oto - sound, noise"
+635,海外,"kaigai - overseas, abroad"
+636,外国人,gaikokujin - foreigner
+637,帰国,kikoku - return to one’s country
+638,彼ら,karera - they
+639,機械,kikai - machine
+640,基本,kihon - basics
+641,今度,"kondo - this time, next time"
+642,最後,saigo - last
+643,最初,"saisho - first, outset"
+644,準備,"junbi - preparation, arrangement"
+645,進む,"susumu - advance, move forward"
+646,直接,chokusetsu - directly
+647,特に,"tokuni - specially, particularly"
+648,届く,"todoku - reach, be received"
+649,なぜ,naze - why
+650,並ぶ,"narabu - line up, be parallel"
+651,運ぶ,"hakobu - carry, transport"
+652,直す,"naosu - repair, fix"
+653,反対,"hantai - oppose, object"
+654,場合,"baai - situation, case"
+655,詳しい,kuwashii - detailed
+656,いたずら,"itazura - mischief, prank"
+657,お祝い,oiwai - celebrate
+658,くし,kushi - comb
+659,こぼれる,"koboreru - spill, overflow"
+660,伝える,"tsutaeru - convey, transmit"
+661,膝,hiza - knee
+662,肘,hiji - elbow
+663,枕,makura - pillow
+664,建物,"tatemono - building, structure"
+665,道路,douro - road
+666,四つ角,yotsukado - intersection
+667,曲がり角,magarikado - corner (to turn)
+668,警察,keisatsu - police
+669,空気,"kuuki - air, atmosphere"
+670,スポーツ,supo-tsu - sport
+671,チャンス,chansu - chance
+672,クリーニング,kuri-ningu - dry cleaning
+673,サービス,"sa-bisu - service, on the house"
+674,グループ,guru-pu - group
+675,自宅,"jitaku - one’s house, one’s home"
+676,家庭,"katei - home, family"
+677,期間,"kikan - term, period"
+678,年度,"nendo - year, school year"
+679,経験,"keiken - experience, knowledge"
+680,安全,"anzen - safety, security"
+681,危険,"kiken - danger, dangerous"
+682,注意,"chuui - attention, care"
+683,成功,seikou - success
+684,努力,"doryoku - endeavor, effort"
+685,説明,"setsumei - explanation, description"
+686,地震,jishin - earthquake
+687,手術,shujutsu - surgical operation
+688,火傷,yakedo - burn
+689,課題,"kadai - task, assignment"
+690,子,"ko - young child, kid"
+691,確認,kakunin - confirmation
+692,実際,"jissai - reality, actual state"
+693,国際,kokusai - international (used in compound nouns)
+694,会議,"kaigi - conference, meeting"
+695,提案,"teian - proposition, proposal"
+696,事務所,"jimusho - office, one’s place of business"
+697,教授,kyouju - professor
+698,世紀,seiki - century
+699,あちこち,"achikochi - all over, here and there"
+700,そちら,"sochira - there, that way (polite)"
+701,あちら,"achira - over there, that way (polite)"
+702,もし,"moshi - if, in case of"
+703,うるさい,"urusai - noisy, annoying"
+704,固い,"katai - stiff, tight"
+705,深い,"fukai - deep, profound"
+706,面白い,"omoshiroi - interesting, amusing"
+707,全く,"mattaku - entirely, truly"
+708,半分,hanbun - half
+709,普通,"futsuu - normal, regular"
+710,分,"bun - amount, share"
+711,文化,bunka - culture
+712,毎日,mainichi - every day
+713,気を付ける,"kiwotsukeru - be careful about, pay attention to"
+714,守る,"mamoru - protect, observe"
+715,もちろん,mochiron - of course
+716,やはり,yahari - as expected
+717,いくら,ikura - how much (money)
+718,よろしく,yoroshiku - one’s regards
+719,どなた,donata - who (polite)
+720,許す,"yurusu - permit, forgive"
+721,分ける,"wakeru - divide, share"
+722,自然,shizen - nature
+723,アパート,"apa-to - apartment, flat"
+724,ホテル,hoteru - hotel
+725,パソコン,pasokon - personal computer
+726,うまい,umai - good at
+727,明るい,"akarui - bright, cheerful"
+728,急ぐ,"isogu - hurry, do quickly"
+729,歌,uta - song
+730,中学校,chuugakkou - junior high school
+731,テスト,tesuto - test
+732,ポスト,"posuto - postbox, mailbox"
+733,ハンカチ,hankachi - handkerchief
+734,髪,"kami - hair, hairstyle"
+735,帽子,"boushi - hat, cap"
+736,被る,"kaburu - wear, put on (on one’s head)"
+737,ブラウス,burausu - blouse
+738,週末,shuumatsu - weekend
+739,先週,senshuu - last week
+740,再来週,saraishuu - the week after next
+741,いつか,"itsuka - some time, some day"
+742,宿題,shukudai - homework
+743,鍵,"kagi - key, lock"
+744,傘,"kasa - umbrella, parasol"
+745,乗り換える,"norikaeru - change, transfer"
+746,向かう,"mukau - face, head toward"
+747,本屋,honya - bookstore (colloquial)
+748,お茶,ocha - tea (polite)
+749,改札口,kaisatsuguchi - ticket gate
+750,晴れ,"hare - fine weather, clear sky"
+751,バス停,basutei - bus stop
+752,曇り,kumori - cloudy weather
+753,塩,shio - salt
+754,たくさん,"takusan - a lot, in large quantity"
+755,大嫌い,daikirai - hate
+756,中,"naka - inside, middle"
+757,二階,"nikai - second floor, upstairs"
+758,無くす,"nakusu - lose, get rid of"
+759,まあまあ,"maamaa - OK, not bad"
+760,黄色,kiiro - yellow color
+761,ランチ,ranchi - lunch (loan word)
+762,魚,sakana - fish
+763,味,"aji - taste, flavor"
+764,りんご,ringo - apple
+765,みかん,mikan - tangerine
+766,皿,"sara - plate, counter (for plates or helpings)"
+767,コーヒー,ko-hi- - coffee
+768,コップ,"koppu - cup, glass"
+769,二人,futari - two persons
+770,止む,"yamu - stop, cease"
+771,九,kyuu - nine
+772,昼間,"hiruma - daytime, during the day"
+773,いつ頃,"itsugoro - about when, about what time"
+774,字,"ji - (individual) character, letter"
+775,七,nana - seven (Chinese origin)
+776,お釣り,otsuri - change (of money)
+777,名字,"myouji - surname, family name"
+778,おじ,oji - (one’s own) uncle
+779,おば,oba - (one’s own) aunt
+780,祖父,sofu - grandfather (formal)
+781,祖母,sobo - grandmother (formal)
+782,大事,daiji - importance
+783,見方,"mikata - view, perspective"
+784,鳥,"tori - bird, poultry"
+785,犬,inu - dog
+786,返事,"henji - reply, answer, response"
+787,また,"mata - again, also, or"
+788,年間,nenkan - period of one year
+789,青,"ao - blue, green"
+790,赤,aka - red color
+791,信号,"shingou - signal, traffic light"
+792,円,en - circle
+793,非常に,"hijouni - very, extremely"
+794,複雑,"fukuzatsu - complicated, intricate"
+795,平和,"heiwa - peace, harmony"
+796,回る,"mawaru - turn round, go around"
+797,若者,"wakamono - young person, youth"
+798,雪,"yuki - snow, snowfall"
+799,うまい,"umai - sweet, delicious"
+800,思い出す,"omoidasu - recollect, recall"
+801,聞こえる,"kikoeru - hear, be heard"
+802,借りる,kariru - borrow
+803,返す,"kaesu - return, repay"
+804,受け取る,"uketoru - receive, get"
+805,捨てる,"suteru - discard, abandon"
+806,一緒,"issho - together, same (colloquial)"
+807,遊び,"asobi - play, amusement"
+808,移す,"utsusu - move, transfer"
+809,大きさ,"ookisa - size, dimension"
+810,考え,"kangae - thought, idea"
+811,空港,kuukou - airport (for public transportation)
+812,出発,"shuppatsu - departure, starting"
+813,地図,"chizu - map, atlas"
+814,運転,unten - drive
+815,降りる,"oriru - get off, land"
+816,ガス,gasu - gas (loan word)
+817,必ず,"kanarazu - without exception, always"
+818,カメラ,kamera - camera
+819,通う,"kayou - go to and from, frequent a place"
+820,急に,"kyuuni - suddenly, unexpectedly"
+821,サラリーマン,"sarari-man - office worker, company employee"
+822,給料,"kyuuryou - salary, pay"
+823,曲,kyoku - piece of music
+824,切れる,"kireru - cut well, be sharp"
+825,正しい,"tadashii - correct, righteous"
+826,苦しい,"kurushii - painful, agonizing"
+827,細かい,"komakai - minute, fine"
+828,静か,"shizuka - quiet, tranquil"
+829,健康,kenkou - health
+830,ゴルフ,gorufu - golf
+831,コース,"ko-su - course, route"
+832,頼む,"tanomu - order, ask for"
+833,困る,"komaru - be in trouble, not know what to do"
+834,ずっと,"zutto - all the time, all through"
+835,例えば,tatoeba - for example
+836,つもり,"tsumori - intention, purpose"
+837,しばらく,"shibaraku - a little while, a while"
+838,紹介,shoukai - introduction
+839,小学校,shougakkou - elementary school
+840,公園,"kouen - park, public garden"
+841,中学,chuugaku - junior high
+842,成績,"seiseki - results, grade"
+843,教科書,"kyoukasho - textbook, schoolbook"
+844,席,"seki - seat, one’s place"
+845,教室,"kyoushitsu - classroom, class"
+846,教師,"kyoushi - teacher, instructor"
+847,試験,shiken - exam
+848,合格,goukaku - pass an examination
+849,数学,suugaku - mathematics
+850,数字,suuji - numeric characters
+851,音楽,ongaku - music
+852,食事,shokuji - meal
+853,壁,"kabe - wall, partition"
+854,信じる,"shinjiru - believe, trust"
+855,育てる,"sodateru - bring up, raise"
+856,倒れる,taoreru - fall over
+857,落とす,otosu - drop
+858,代わる,"kawaru - substitute, be substituted for"
+859,タクシー,takushi- - taxi
+860,確か,"tashika - for sure, for certain"
+861,立てる,"tateru - stand, set up"
+862,中学生,chuugakusei - junior high school student
+863,売れる,"ureru - sell, be in demand"
+864,着く,"tsuku - arrive at, reach"
+865,決まる,kimaru - be decided
+866,飾る,kazaru - decorate
+867,殺す,korosu - kill
+868,下げる,"sageru - lower, turn down"
+869,贈る,"okuru - offer, give"
+870,訪ねる,"tazuneru - visit, go to see"
+871,打つ,"utsu - hit, strike"
+872,相談,"soudan - consultation, advice"
+873,玄関,"genkan - entrance, door"
+874,兄弟,kyoudai - sibling
+875,長男,chounan - eldest son
+876,高さ,takasa - height
+877,用,you - things to do
+878,時代,"jidai - age, era"
+879,位置,"ichi - position, location"
+880,季節,kisetsu - season
+881,穴,ana - hole
+882,裏,"ura - the back, the reverse side"
+883,島,shima - island (Japanese origin)
+884,海岸,"kaigan - seashore, coast"
+885,ガラス,garasu - glass (material)
+886,自然,shizen - natural
+887,風,kaze - wind
+888,科学,kagaku - science
+889,太陽,taiyou - sun
+890,台風,taifuu - typhoon
+891,北,kita - north
+892,馬,uma - horse
+893,牛肉,gyuuniku - beef
+894,雑誌,"zasshi - magazine, journal"
+895,小説,shousetsu - novel
+896,大使館,taishikan - embassy
+897,故障,"koshou - malfunction, breakdown"
+898,温度,ondo - temperature
+899,何か,"nanika - something, some"
+900,向こう,"mukou - over there, on the other side"
+901,真ん中,"mannaka - center, middle (casual)"
+902,遠く,"tooku - far away, at a distance"
+903,横,"yoko - side, width across"
+904,つまらない,"tsumaranai - boring, dull"
+905,素晴らしい,"subarashii - excellent, wonderful"
+906,毎年,maitoshi/ mainen - every year (colloquial)
+907,来月,raigetsu - next month
+908,日時,nichiji - date and time
+909,夕方,"yuugata - early evening, at dusk"
+910,通る,"tooru - pass, go through"
+911,自動車,jidousha - automobile
+912,慣れる,"nareru - grow accustomed to, get used to"
+913,撮る,"toru - take (a photograph), film"
+914,やっと,"yatto - at last, finally"
+915,どんどん,"dondon - knock, bang"
+916,並べる,"naraberu - line up, arrange"
+917,逃げる,"nigeru - escape, run away"
+918,渡す,"watasu - hand over, give"
+919,値段,nedan - price
+920,両方,ryouhou - both
+921,約束,"yakusoku - promise, vow"
+922,一部,ichibu - part
+923,ラジオ,rajio - radio
+924,入院,nyuuin - be hospitalized
+925,ニュース,nyu-su - news
+926,旅行,"ryokou - travel, trip"
+927,用意,youi - preparation
+928,伸びる,"nobiru - stretch, grow"
+929,パーティー,pa-ti- - party
+930,ビール,bi-ru - beer
+931,早く,"hayaku - early, soon"
+932,番組,bangumi - program
+933,ビデオ,bideo - video
+934,増やす,fuyasu - increase
+935,振る,"furu - wave, shake"
+936,迎える,"mukaeru - welcome, receive (a visitor)"
+937,無理,"muri - unreasonable, impossible"
+938,珍しい,"mezurashii - rare, scarce"
+939,有名,yuumei - famous
+940,喜ぶ,"yorokobu - be happy, be delighted"
+941,留学,ryuugaku - study abroad
+942,料理,ryouri - cooking
+943,野菜,yasai - vegetable
+944,分かれる,"wakareru - be divided, split off"
+945,特別,tokubetsu - special
+946,理由,"riyuu - reason, excuse"
+947,自由,jiyuu - freedom
+948,方向,"houkou - direction, course"
+949,残る,"nokoru - remain, be left over"
+950,ビル,biru - building
+951,まとめる,"matomeru - gather together, put in order"
+952,流れる,"nagareru - flow, run"
+953,セーター,se-ta- - sweater
+954,シャツ,shatsu - shirt
+955,洗濯,"sentaku - laundry, washing"
+956,間違える,"machigaeru - make a mistake, fail at"
+957,アイスクリーム,aisukuri-mu - ice cream
+958,乾く,kawaku - become dry
+959,冷める,sameru - cool off
+960,色々,iroiro - a variety of
+961,持って行く,"motteiku - take, bring"
+962,着替える,kigaeru - change clothes
+963,石鹸,sekken - soap
+964,野球,yakyuu - baseball
+965,昼食,chyuushoku - lunch
+966,朝食,choushoku - breakfast
+967,眠る,"nemuru - sleep, lie idle"
+968,初め,hajime - beginning
+969,火,"hi - fire, flame"
+970,西,"nishi - west, western"
+971,東,"higashi - east, eastern"
+972,南,minami - south
+973,夕食,"yuushoku - supper, dinner"
+974,なかなか,"nakanaka - rather, pretty"
+975,励ます,"hagemasu - encourage, cheer up"
+976,涙,namida - tear
+977,夢,yume - dream
+978,職場,"shokuba - place of work, office"
+979,隣,"tonari - next to, next door"
+980,マンション,"manshon - apartment, residential building"
+981,エレベーター,erebe-ta- - elevator
+982,窓,mado - window
+983,押す,"osu - push, press down"
+984,入学,"nyuugaku - enter a school, matriculate"
+985,戸,"to - door, sliding door"
+986,通り,"toori - street, road"
+987,亡くなる,"nakunaru - die, pass away"
+988,夫婦,"fuufu - husband and wife, married couple"
+989,女性,"josei - woman, female (formal)"
+990,森,mori - forest
+991,トラック,torakku - truck
+992,レコード,reko-do - record
+993,熱,"netsu - heat, fever"
+994,ページ,pe-ji - page
+995,踊る,odoru - dance
+996,長さ,nagasa - length
+997,厚さ,atsusa - thickness
+998,秘密,"himitsu - secret, privacy"
+999,凄い,"sugoi - great, incredible"
+1000,親切,"shinsetsu - kind, kindhearted"
+1001,絶対,"zettai - absolutely, never"
+1002,先月,sengetsu - last month
+1003,一昨年,ototoshi - the year before last (colloquial)
+1004,冬休み,fuyuyasumi - winter vacation
+1005,夏休み,natsuyasumi - summer vacation
+1006,休日,"kyuujitsu - day off, holiday"
+1007,正月,"shougatsu - New Year, January"
+1008,思い出,omoide - memory
+1009,たまに,"tamani - occasionally, by chance"
+1010,おかしい,"okashii - strange, peculiar"
+1011,浅い,"asai - shallow, superficial"
+1012,君,kimi - you (referring to fellows or subordinates)
+1013,奥さん,"okusan - (somone else’s) wife, married woman"
+1014,赤ちゃん,akachan - baby (colloquial)
+1015,小学生,shougakusei - elementary school student
+1016,貸す,"kasu - lend, lease"
+1017,数える,kazoeru - count
+1018,生む,"umu - give birth, produce"
+1019,育つ,"sodatsu - be brought up, grow"
+1020,是非,"zehi - by all means, please"
+1021,黒,kuro - black
+1022,おもちゃ,"omocha - toy, plaything"
+1023,靴,kutsu - shoes
+1024,連絡,"renraku - contact, communication"
+1025,伝言,dengon - message
+1026,預ける,"azukeru - deposit, leave (something) with (someone)"
+1027,下がる,"sagaru - go down, drop"
+1028,泳ぐ,oyogu - swim
+1029,アルバイト,arubaito - part-time job
+1030,コート,"ko-to - coat, jacket (loan word)"
+1031,趣味,"shumi - hobby, interest"
+1032,散歩,"sanpo - walk, stroll"
+1033,幸せ,"shiawase - happiness, satisfied (colloquial)"
+1034,安心,"anshin - peace of mind, relief"
+1035,大勢,"oozei - large numbers, a lot of (people)"
+1036,医者,"isha - doctor (colloquial, plain)"
+1037,運転手,untenshu - driver
+1038,新幹線,shinkansen - bullet train
+1039,往復,oufuku - round trip
+1040,コピー,"kopi- - copy, photocopy"
+1041,奥,"oku - inner part, the back"
+1042,重さ,omosa - weight
+1043,親しい,"shitashii - intimate, familiar"
+1044,修理,"shuuri - repair, mending"
+1045,カード,ka-do - card
+1046,挨拶,"aisatsu - greet, greeting"
+1047,階段,"kaidan - steps, flight of stairs"
+1048,配る,"kubaru - hand out, distribute"
+1049,断る,"kotowaru - refuse, turn down"
+1050,グラム,guramu - gram
+1051,濃い,"koi - strong, concentrated"
+1052,壊す,"kowasu - break (something), destroy"
+1053,桜,"sakura - cherry tree, cherry blossom"
+1054,仕方,"shikata - way, method"
+1055,絵,"e - picture, painting"
+1056,気温,kion - air temperature
+1057,品物,"shinamono - article, goods"
+1058,吸う,"suu - inhale, suck"
+1059,案内,"annai - guide, guidance"
+1060,スキー,"suki- - ski, skiing"
+1061,金持ち,kanemochi - wealthy person
+1062,尋ねる,"tazuneru - inquire, ask"
+1063,叩く,"tataku - tap, hit"
+1064,帰り,"kaeri - return, going home"
+1065,卵,tamago - egg
+1066,氷,koori - ice
+1067,留学生,ryuugakusei - student studying abroad
+1068,ソフト,"sofuto - software, program"
+1069,歯医者,haisha - dentist
+1070,蹴る,keru - kick
+1071,敷く,"shiku - lay, spread"
+1072,ひととき,"hitotoki - some moments, a while"
+1073,交通事故,koutsuujiko - traffic accident
+1074,遭う,"au - meet, encounter, get caught in"
+1075,招待,shoutai - invitation
+1076,咲く,"saku - bloom, blossom"
+1077,二十歳,hatachi - 20 years old
+1078,銀,gin - silver
+1079,内側,"uchigawa - inside, interior"
+1080,池,ike - pond
+1081,石,"ishi - stone, small rock"
+1082,愛,ai - love
+1083,課,"ka - section, division"
+1084,大学院,daigakuin - graduate school
+1085,台所,daidokoro - kitchen
+1086,カラー,kara- - color (loan word)
+1087,すり,suri - pickpocket
+1088,キャンプ,"kyanpu - camping, camp"
+1089,オートバイ,"o-tobai - motorbike, motorcycle"
+1090,建つ,"tatsu - be built, be erected"
+1091,刺す,"sasu - sting, stab"
+1092,言い方,"iikata - way of speaking, expression"
+1093,沈む,shizumu - sink
+1094,組み立てる,"kumitateru - set up, put together"
+1095,恐ろしい,"osoroshii - terrible, awful"
+1096,外人,"gaijin - foreigner, alien"
+1097,牛,"ushi - cattle, cow"
+1098,食堂,"shokudou - cafeteria, restaurant"
+1099,毎年,mainen - every year (formal)
+1100,毎週,maishuu - every week
+1101,何度,"nando - how many times, how many degrees"
+1102,なかなか,"nakanaka - not easily, not readily"
+1103,さっき,"sakki - earlier, only a moment ago"
+1104,久しぶり,hisashiburi - after a long time
+1105,便利,benri - convenience
+1106,迷惑,"meiwaku - trouble, annoyance"
+1107,そんなに,sonnani - so much
+1108,びっくりする,"bikkurisuru - be surprised, be startled (casual)"
+1109,足りる,"tariru - suffice, be enough"
+1110,疲れる,"tsukareru - get tired, become fatigued"
+1111,ひどい,"hidoi - cruel, awful"
+1112,全然,zenzen - (not ) at all
+1113,猫,neko - cat
+1114,デパート,depa-to - department store (loan word)
+1115,トイレ,toire - toilet
+1116,地下鉄,chikatetsu - subway
+1117,駐車場,"chuushajou - parking area, parking lot"
+1118,ぶつかる,"butsukaru - hit, bump into"
+1119,運賃,unchin - (passenger) fare
+1120,通学,tsuugaku - commuting to school
+1121,見送る,miokuru - see (someone) off
+1122,泣く,"naku - cry, weep"
+1123,レストラン,resutoran - restaurant
+1124,メモ,"memo - memo, note"
+1125,予約,"yoyaku - reservation, appointment"
+1126,番号,bangou - assigned number
+1127,注文,chuumon - order
+1128,パン,pan - bread
+1129,ワイン,wain - wine
+1130,材料,"zairyou - material, ingredient"
+1131,豚肉,butaniku - pork
+1132,焼く,"yaku - bake, grill"
+1133,匂い,"nioi - (pleasant) smell, odor"
+1134,付ける,"tsukeru - attach, apply, put"
+1135,痩せる,"yaseru - lose weight, become thin"
+1136,届ける,todokeru - deliver
+1137,間に合う,"maniau - be in time, suffice"
+1138,向く,"muku - turn, face"
+1139,強さ,tsuyosa - strength
+1140,得意,"tokui - one’s specialty, be good at"
+1141,塗る,"nuru - spread on, paint"
+1142,投げる,nageru - throw
+1143,習う,"narau - learn, take lessons"
+1144,注目,"chuumoku - attention, notice"
+1145,未来,mirai - future
+1146,箱,"hako - box, case"
+1147,右手,migite - right hand
+1148,左手,hidarite - left hand
+1149,プール,pu-ru - pool
+1150,ピアノ,piano - piano
+1151,光る,"hikaru - shine, emit light, sparkle"
+1152,踏む,"fumu - step on, tread on"
+1153,別々,betsubetsu - separately
+1154,ボール,bo-ru - ball
+1155,握る,"nigiru - grasp, grip, hold"
+1156,真っ赤,makka - deep red
+1157,拾う,hirou - pick up
+1158,回す,"mawasu - turn, rotate (something)"
+1159,ノート,no-to - notebook (loan word)
+1160,辞める,"yameru - resign, leave (one’s job), quit"
+1161,揺れる,"yureru - shake, sway"
+1162,立派,"rippa - fine, elegant"
+1163,練習,"renshuu - practice, training"
+1164,割る,"waru - divide, split"
+1165,部分,"bubun - part, section"
+1166,拭く,"fuku - wipe, dry"
+1167,招く,maneku - invite
+1168,急,"kyuu - urgent, steep"
+1169,汚れる,yogoreru - become dirty
+1170,渡る,"wataru - cross, go across"
+1171,途中,"tochuu - on the way, half way"
+1172,インタビュー,intabyu- - interview (loan word)
+1173,盗む,"nusumu - steal, rob"
+1174,普段,"fudan - usual, ordinary"
+1175,旅館,ryokan - Japanese inn
+1176,博物館,hakubutsukan - museum
+1177,ホーム,ho-mu - platform (for short)
+1178,引っ越す,"hikkosu - move, relocate"
+1179,荷物,"nimotsu - baggage, load"
+1180,家賃,yachin - rent
+1181,計画,keikaku - plan
+1182,廊下,"rouka - hallway, corridor"
+1183,天井,tenjou - ceiling
+1184,ベッド,beddo - bed
+1185,ソファー,"sofa- - sofa, couch"
+1186,屋根,yane - roof
+1187,祭り,matsuri - festival
+1188,離婚,rikon - divorce
+1189,葉,ha - leaf
+1190,ボート,"bo-to - light boat, small craft"
+1191,燃える,"moeru - burn, catch on fire"
+1192,巻く,"maku - roll up, wrap"
+1193,プラスチック,purasuchikku - plastic
+1194,訪れる,otozureru - go and visit (place)
+1195,破る,"yaburu - tear, breach"
+1196,関係,"kankei - relation, relationship"
+1197,録音,rokuon - (sound) recording
+1198,不幸,"fukou - unhappiness, misfortune"
+1199,外国語,gaikokugo - language
+1200,着物,kimono - traditional Japanese clothes
+1201,牛乳,gyuunyuu - milk
+1202,救急車,kyuukyuusha - ambulance
+1203,果物,kudamono - fruit
+1204,間違い,"machigai - mistake, error"
+1205,映画館,eigakan - movie theater
+1206,怖い,"kowai - scary, be afraid"
+1207,鏡,kagami - mirror
+1208,草,"kusa - grass, weed"
+1209,敬語,keigo - polite speech
+1210,欠席,kesseki - absence
+1211,スイッチ,suicchi - switch
+1212,掃除,souji - cleaning
+1213,畳,tatami - straw mat
+1214,速さ,hayasa - speed
+1215,林,"hayashi - woods, forest"
+1216,プレゼント,purezento - present (loan word)
+1217,弁当,bentou - boxed lunch
+1218,いつでも,"itsudemo - at all times, any time"
+1219,寂しい,"sabishii - lonely, desolate, sad"
+1220,少しも,sukoshimo - (not) in the least
+1221,尊敬,"sonkei - respect, esteem"
+1222,テニス,tenisu - tennis
+1223,広さ,"hirosa - area, extent"
+1224,読み,yomi - reading
+1225,我慢,"gaman - patience, endurance"
+1226,国籍,"kokuseki - nationality, citizenship"
+1227,恥ずかしい,"hazukashii - embarrassed, ashamed"
+1228,ボタン,botan - button
+1229,洋服,youfuku - (western-style) clothes
+1230,油,abura - oil
+1231,おかしい,"okashii - funny, comical"
+1232,余る,"amaru - remain, be in excess"
+1233,コート,ko-to - sports court
+1234,正直,"shoujiki - honest, upright"
+1235,ドラマ,dorama - drama
+1236,ビザ,biza - visa
+1237,水道,suidou - tap water
+1238,店員,"tenin - clerk, salesperson"
+1239,電池,denchi - battery
+1240,ポケット,poketto - pocket
+1241,握手,akushu - handshake
+1242,そろそろ,"sorosoro - soon, it’s about time"
+1243,ぶどう,budou - grapes
+1244,迷う,mayou - get lost
+1245,見物,"kenbutsu - sightseeing, visit"
+1246,知らせる,"shiraseru - let know, inform"
+1247,神社,jinja - Shinto shrine
+1248,注射,"chuusha - injection, shot"
+1249,めったに,"mettani - rarely, seldom"
+1250,作文,"sakubun - composition, essay"
+1251,鳴る,"naru - sound, ring"
+1252,真面目,majime - serious and sincere
+1253,申し込む,"moushikomu - apply, sign up"
+1254,冷蔵庫,reizouko - refrigerator
+1255,気に入る,"kiniiru - like, be pleased with"
+1256,クリスマス,kurisumasu - Christmas
+1257,ネクタイ,"nekutai - tie, necktie"
+1258,誕生日,tanjoubi - birthday
+1259,独身,"dokushin - single, unmarried"
+1260,苦い,nigai - bitter
+1261,バイオリン,baiorin - violin
+1262,バッグ,baggu - bag
+1263,今まで,imamade - until now
+1264,切符,kippu - ticket
+1265,ゴム,"gomu - elastic, rubber"
+1266,少々,"shoushou - a little, a bit"
+1267,随分,"zuibun - extremely, considerably"
+1268,引っ張る,"hipparu - pull, drag"
+1269,焼ける,"yakeru - burn, cook"
+1270,鉛筆,enpitsu - pencil
+1271,会話,kaiwa - conversation
+1272,ギター,gita- - guitar
+1273,茶,cha - tea
+1274,暑さ,atsusa - heat (of weather)
+1275,胃,i - stomach
+1276,禁煙,kinen - non-smoking
+1277,丸い,marui - round
+1278,写る,utsuru - be photographed
+1279,喫茶店,"kissaten - coffee shop, café"
+1280,やっぱり,"yappari - just as I thought, after all"
+1281,週刊誌,shuukanshi - weekly magazine
+1282,棚,"tana - shelf, rack"
+1283,震える,"furueru - tremble, shake"
+1284,磨く,"migaku - polish, grind"
+1285,カーテン,ka-ten - curtain
+1286,火事,"kaji - fire, blaze"
+1287,ナイフ,naifu - knife
+1288,皆さん,"minasan - everybody, everyone (polite)"
+1289,受ける,"ukeru - receive, take, undergo"
+1290,付く,"tsuku - stick to, cling to"
+1291,私,watakushi - I (formal)
+1292,結構,kekkou - quite
+1293,悪口,"warukuchi - slander, abuse"
+1294,広まる,"hiromaru - spread, get around"
+1295,内緒,"naisho - secrecy, privacy"
+1296,つぶる,tsuburu - close (eyes)
+1297,用件,"youken - matter, things to be done"
+1298,ロマンチック,romanchikku - romantic
+1299,貯金,"chokin - savings, deposit"
+1300,バイク,baiku - motorcycle
+1301,預かる,"azukaru - take care of, keep"
+1302,オレンジ,orenji - orange
+1303,噛む,"kamu - bite, chew"
+1304,きつい,"kitsui - tight, tough"
+1305,越える,"koeru - go over, go across"
+1306,小包,"kodutsumi - parcel, package"
+1307,新年,shinnen - new year
+1308,配達,haitatsu - delivery
+1309,動物園,doubutsuen - zoo
+1310,封筒,fuutou - envelope
+1311,危ない,abunai - dangerous
+1312,テキスト,"tekisuto - text, textbook"
+1313,ビニール,"bini-ru - plastic, vinyl"
+1314,アルバム,arubamu - album
+1315,水泳,suiei - swimming
+1316,混む,"komu - be crowded, be congested"
+1317,スカート,suka-to - skirt
+1318,取れる,"toreru - come off, be removed"
+1319,ペン,pen - pen
+1320,物,"mono - thing, object"
+1321,郵便,"yuubin - mail service, postal mail"
+1322,割れる,"wareru - crack, split"
+1323,駅員,ekiin - station attendant
+1324,おしゃべり,"oshaberi - talkative, chatty"
+1325,緑色,midoriiro - green color
+1326,毎朝,maiasa - every morning
+1327,曲げる,mageru - bend (something)
+1328,きっと,"kitto - surely, certainly"
+1329,理科,rika - science (school subject)
+1330,下着,shitagi - underwear
+1331,太る,"futoru - grow fat, gain weight"
+1332,冷房,reibou - air conditioning (cooling)
+1333,別れる,"wakareru - separate, part"
+1334,空く,aku - become available or vacant
+1335,出掛ける,"dekakeru - go out, leave home"
+1336,毎晩,maiban - every evening
+1337,指輪,yubiwa - ring
+1338,腐る,"kusaru - rot, go bad"
+1339,貧乏,"binbou - poverty, destitution"
+1340,おしゃれ,"oshare - trendy, fashionable"
+1341,休憩,kyuukei - break
+1342,舌,shita - tongue
+1343,ジュース,ju-su - juice
+1344,ゼロ,"zero - zero, none (loan word)"
+1345,朝刊,choukan - morning edition paper
+1346,丁寧,"teinei - polite, careful"
+1347,苦手,"nigate - not good at, be bad at"
+1348,日,"hi - (specific) day, sun, daytime"
+1349,引っ越し,hikkoshi - moving (house)
+1350,歩道,"hodou - sidewalk, pavement"
+1351,折れる,"oreru - break, snap"
+1352,見送り,miokuri - send-off
+1353,夕刊,yuukan - evening edition paper
+1354,この間,"konoaida - the other day, not so long ago"
+1355,冷える,"hieru - cool down, get chilled"
+1356,ピンク,pinku - pink
+1357,グラス,gurasu - glass
+1358,毛,"ke - hair, down"
+1359,黒板,kokuban - blackboard
+1360,積もる,tsumoru - pile up
+1361,半年,hantoshi - half a year
+1362,現在,"genzai - the present, present time"
+1363,利用,"riyou - utilization, usage"
+1364,方法,"houhou - method, procedure"
+1365,中心,"chuushin - center (of a circle, etc.), core"
+1366,明らか,"akiraka - clear, obvious"
+1367,社長,shachou - president (of a company)
+1368,ほぼ,"hobo - almost, nearly"
+1369,商品,"shouhin - goods, commodities"
+1370,大型,"oogata - large, large scale"
+1371,限る,kagiru - be limited to
+1372,記録,"kiroku - record, documentation"
+1373,具体的,"gutaiteki - concrete, specific"
+1374,効果,"kouka - effect, result"
+1375,公開,koukai - opening (to the public)
+1376,作品,"sakuhin - work of art, creation"
+1377,迫る,"semaru - close in on, approach"
+1378,大会,"taikai - tournament, event"
+1379,背景,"haikei - background, backdrop"
+1380,文字,"moji - character, letter, writing"
+1381,規則,"kisoku - rule, regulation"
+1382,近所,kinjo - neighborhood
+1383,グラフ,"gurapu - chart, graph"
+1384,首都,shuto - capital
+1385,減らす,herasu - reduce (something)
+1386,隠れる,kakureru - hide
+1387,美術館,bijutsukan - art museum
+1388,ばか,"baka - foolish, stupid"
+1389,暇,"hima - free time, spare time"
+1390,絵葉書,ehagaki - picture postcard
+1391,あんなに,"annani - that much, such"
+1392,行き,"iki - going, bound for"
+1393,通勤,tsuukin - commute
+1394,ちゃんと,"chanto - correctly, properly"
+1395,のんびり,nonbiri - take it easy
+1396,緊張,"kinchou - tension, strain"
+1397,気付く,"kiduku - notice, realize"
+1398,物語,"monogatari - story, tale"
+1399,出口,deguchi - exit
+1400,登る,"noboru - climb, go up"
+1401,真っ白,masshiro - pure-white
+1402,下ろす,"orosu - bring down, take down"
+1403,貸し出す,"kashidasu - lend, lend out"
+1404,サッカー,"sakka- - soccer, football"
+1405,暖房,danbou - heating
+1406,手袋,tebukuro - gloves
+1407,留守,rusu - not at home
+1408,嘘,uso - lie
+1409,遠慮,"enryo - restraint, hold back"
+1410,折る,"oru - break (something), fold (something)"
+1411,スープ,su-pu - soup
+1412,バナナ,banana - banana
+1413,可哀相,"kawaisou - poor, pitiful"
+1414,パトカー,patoka- - police car
+1415,ハンバーガー,hanba-ga- - hamburger
+1416,毛布,moufu - blanket
+1417,エスカレーター,esukare-ta- - escalator
+1418,お嬢さん,"ojousan - young lady, daughter"
+1419,手帳,techou - pocket notebook
+1420,タオル,taoru - towel
+1421,売店,"baiten - booth, shop"
+1422,パチンコ,pachiko - pachinko (Japanese pinball)
+1423,謝る,ayamaru - apologize
+1424,ケーキ,ke-ki - cake
+1425,天気予報,tenkiyohou - weather forecast
+1426,変,"hen - strange, weird"
+1427,一生懸命,"isshoukenmei - hard-working, doing one’s best"
+1428,間違う,"machigau - make a mistake, be wrong"
+1429,事務室,jimushitsu - office
+1430,スーツ,su-tsu - suit
+1431,チケット,chiketto - ticket (loan word)
+1432,チョコレート,chokore-to - chocolate
+1433,脱ぐ,nugu - take off (clothes)
+1434,年賀状,nenkajou - New Year’s card
+1435,乗り物,"norimono - vehicle, transportation"
+1436,布団,futon - Japanese-style padded mattress
+1437,役に立つ,"yakunitatsu - be useful, be helpful"
+1438,破れる,"yabureru - tear, rip open"
+1439,用事,"youji - errand, business"
+1440,写す,"utsusu - copy, photograph"
+1441,腕時計,udedokei - wrist watch
+1442,贈り物,"okurimono - present, gift"
+1443,チャンネル,channeru - channel
+1444,冷やす,"hiyasu - chill (something), cool down"
+1445,片付ける,"katazukeru - put in order, clean up"
+1446,乾杯,"kanpai - toast, drink (in celebration)"
+1447,停車,teisha - stop (of a train)
+1448,鳴く,"naku - sing, cry (of animals)"
+1449,ガソリンスタンド,gasorinsutando - gas station
+1450,片道,katamichi - one way (trip)
+1451,交番,kouban - police box
+1452,大分,"daibu - greatly, fairly, highly"
+1453,デート,"de-to - date, romantic meeting"
+1454,梅雨,tsuyu - rainy season
+1455,真っ直ぐ,massugu - straight
+1456,レモン,remon - lemon
+1457,上着,"uwagi - outerwear, coat, jacket"
+1458,偉い,"erai - great, eminent"
+1459,書き方,"kakikata - how to write, way of writing"
+1460,炊く,taku - cook (rice)
+1461,チーズ,chi-zu - cheese
+1462,ドライブ,doraibu - drive (loan word)
+1463,踏切,fumikiri - railroad crossing
+1464,ラケット,raketto - racket
+1465,受付,"uketsuke - receptionist, information office"
+1466,怒る,"okoru - get angry, scold"
+1467,化粧,keshou - makeup
+1468,都合,"tsugou - convenience, availability"
+1469,ひげ,"hige - beard, moustache"
+1470,本棚,"hondana - bookshelf, bookcase"
+1471,真っ暗,makkura - pitch-dark
+1472,沸く,"waku - boil, get loud (crowd applause etc.)"
+1473,売り切れる,"urikireru - sell out, go out of stock"
+1474,押し入れ,oshiire - sliding-door closet
+1475,革,kawa - leather
+1476,ぐっすり,gussuri - soundly
+1477,紅茶,koucha - black tea
+1478,邪魔,"jama - disturbance, blocking"
+1479,ソース,so-su - sauce
+1480,足す,tasu - add (things of the same kind)
+1481,トマト,tomato - tomato
+1482,バター,bata- - butter
+1483,発車,hassha - departure (of a vehicle)
+1484,バレーボール,bare-ho-ru - volleyball
+1485,おかず,okazu - dishes to go with the rice
+1486,カレンダー,karenda- - calendar
+1487,とにかく,"tonikaku - in any case, anyway"
+1488,楽しみ,"tanoshimi - enjoyment, something looked forward to"
+1489,おしゃべり,"oshaberi - chatter, idle talk"
+1490,読書,dokusho - reading books
+1491,寒気,samuke - chill
+1492,夕焼け,yuuyake - sunset glow
+1493,傷める,"itameru - damage, hurt"
+1494,くすぐったい,kusuguttai - ticklish
+1495,泥棒,"dorobou - thief, burglar"
+1496,襖,fusuma - paper sliding door
+1497,美人,bijin - beautiful woman
+1498,タイプライター,taipuraita- - typewriter
+1499,再来年,sarainen - the year after next
+1500,冗談,joudan - joke
+1501,近付く,"chikaduku - approach, come close"
+1502,電話帳,denwachou - telephone book
+1503,ベル,beru - bell
+1504,干す（ほす）,hosu - hang (something) out to dry
+1505,金額,"kingaku - amount of money, sum"
+1506,蚊,ka - mosquito
+1507,悲しむ,"kanashimu - feel sad, lament"
+1508,クーラー,ku-ra- - air conditioner (cooling)
+1509,失礼,"shitsurei - rudeness, to excuse oneself"
+1510,洗濯機,"sentakuki - washing machine, washer"
+1511,豆腐,toufu - tofu
+1512,昼寝,hirune - nap
+1513,不便,fuben - inconvenient
+1514,ミルク,miruku - milk (loan word)
+1515,向こう側,mukougawa - other side
+1516,億,oku - hundred million
+1517,お礼,"orei - thanks, gratitude"
+1518,着せる,kiseru - dress (someone)
+1519,サラダ,sarada - salad
+1520,代える,kaeru - substitute for
+1521,四角,shikaku - square
+1522,急行,kyukou - express train
+1523,交差点,"kousaten - crossing, intersection"
+1524,覚める,"sameru - awake, wake up (naturally)"
+1525,昼休み,hiruyasumi - lunch break
+1526,ベルト,beruto - belt
+1527,真っ黒,"makkuro - black, jet-black"
+1528,皆様,"minasama - everyone, ladies and gentlemen"
+1529,ラーメン,ra-men - ramen (Chinese noodles)
+1530,ライター,raita- - lighter
+1531,ワイシャツ,"waishatsu - business shirt, dress shirt"
+1532,転ぶ,"korobu - fall down, fall over"
+1533,シャワー,shawa- - shower
+1534,扇風機,senpuuki - electric fan
+1535,遅刻,"chikoku - tardiness, lateness"
+1536,釣る,"tsuru - fish, catch"
+1537,うどん,udon - Japanese wheat noodles
+1538,仮名,kana - kana
+1539,記念日,"kinenbi - memorial day, anniversary"
+1540,下り,"kudari - downhill, going down"
+1541,掲示板,"keijiban - notice board, bulletin board"
+1542,凍る,kooru - freeze
+1543,スーパーマーケット,su-pa-ma-ketto - supermarket
+1544,ぶらぶら,"burabura - wander, walk around"
+1545,アナウンサー,anaunsa- - announcer
+1546,自炊,jisui - cooking (for oneself)
+1547,止める,tomeru - stop (something/someone)
+1548,年下,"toshishita - younger, junior"
+1549,治す,naosu - cure (something)
+1550,箸,hashi - chopsticks
+1551,花見,hanami - flower viewing
+1552,引き出し,hikidashi - drawer
+1553,訳,yaku - translation
+1554,いかが,ikaga - how
+1555,交通費,"koutsuuhi - traveling expense, transportation fee"
+1556,ステレオ,sutereo - stereo
+1557,再会,"saikai - meeting again, reunion"
+1558,滑る,"suberu - slide, slip"
+1559,早口,hayakuchi - speaking fast
+1560,裏返す,"uragaesu - turn over, turn inside out"
+1561,角,"kado - corner, edge"
+1562,きらきら,"kirakira - sparkling, glittering"
+1563,三角,"sankaku - figure, area etc."
+1564,激しい,"hageshii - violent, intense"
+1565,経営,"keiei - management, operation"
+1566,拡大,"kakudai - magnification, enlargement"
+1567,姿勢,"shisei - posture, attitude"
+1568,周辺,"shuuhen - area, region"
+1569,他,ta - other (Chinese origin)
+1570,達する,"tassuru - attain, reach"
+1571,当時,touji - at that time
+1572,当然,"touzen - natural, as a matter of course"
+1573,能力,"nouryoku - capability, performance ability of machine, etc."
+1574,判断,"handan - judgment, decision"
+1575,過ぎる,"sugiru - pass by, go past"
+1576,正確,"seikaku - accurate, precise"
+1577,戦争,sensou - war between countries
+1578,放送,housou - broadcasting
+1579,習慣,"shuukan - custom, habit"
+1580,フィルム,fuirumu - film
+1581,受け付ける,"uketsukeru - receive, accept"
+1582,ダンス,"dansu - dance, dancing (loan word)"
+1583,こんなに,"konnani - this much, such"
+1584,吹く,"fuku - blow, play (a wind instrument)"
+1585,まあ,Maa - well (interjection)
+1586,メール,me-ru - e-mail
+1587,インターネット,inta-netto - Internet
+1588,出身,"shusshin - come from, origin"
+1589,職業,"shokugyou - occupation, job"
+1590,スター,suta- - star
+1591,くだらない,"kudaranai - worthless, trifling"
+1592,名簿,Meibo - name list
+1593,通常,"Tsuujou - common, usually, typically"
+1594,家内,kanai - one’s wife
+1595,消防署,Shoubousho - fire station
+1596,再び,"Futatabi - again, a second time"
+1597,大統領,Daitouryou - president (of a country)
+1598,入場券,Nyuujouken - entrance ticket
+1599,ネックレス,nekkuresu - necklace
+1600,パジャマ,pajama - pajamas
+1601,ボールペン,Borupen - ballpoint pen
+1602,かゆい,kayui - itchy
+1603,覚ます,"samasu - awaken, wake up"
+1604,すいか,Suika - watermelon
+1605,そば,Soba - buckwheat noodles
+1606,特急,tokkyuu - super-express
+1607,のり,"Nori - glue, starch"
+1608,大抵,"たいてい - generally, mostly"
+1609,バスケットボール,basukettobo-ru - basketball
+1610,酔っ払う,yopparau - get drunk
+1611,どきどき,"Dokidoki - feel excited, feel nervous"
+1612,欲しがる,"hoshigaru - want, desire (of the third person)"
+1613,早起き,Hayaoki - getting up early
+1614,味噌汁,misoshiru - miso soup
+1615,読み方,"yomikata - how to read, way of reading"
+1616,入り口,iriguchi - entrance
+1617,降ろす,"orosu - unload, set down"
+1618,掛かる,kakaru - hang
+1619,サンドイッチ,sandoicchi - sandwich
+1620,四角い,Shikakui - square-shaped
+1621,突き当たる,"tsukiataru - run into, come to the end (of a road)"
+1622,乾かす,kawakasu - dry (something)
+1623,定期券,Teikiken - commuter pass
+1624,にこにこ,"nikoniko - smilingly, keep smiling"
+1625,下る,"kudaru - go down, go away from"
+1626,ウール,wu-ru - wool
+1627,コーラ,"ko-ra - cola, coke"
+1628,トイレットペーパー,Toirettopepa - toilet paper
+1629,乗り換え,"norikae - transfer, change (trains)"
+1630,灰皿,haizara - ashtray
+1631,ハム,hamu - ham
+1632,床,yuka - floor
+1633,ローマ字,Ro-maji - Roman alphabet
+1634,いちご,ichigo - strawberry
+1635,カレーライス,kareaisu - curry rice
+1636,キャッシュカード,Kyasshukado - cash card
+1637,停留所,teiryuujo - (bus) stop
+1638,床屋,"tokoya - barber, barbershop"
+1639,歯磨き,hamigaki - brushing one’s teeth
+1640,夕飯,"ゆうはん - evening meal, dinner"
+1641,酔っ払い,"yopparai - drunkard, drunk"
+1642,例,Rei - example
+1643,お辞儀,Ojigi - bow
+1644,横断歩道,"Oudan hodou - pedestrian crossing, crosswalk"
+1645,ぐらぐら,"guragura - shaky, unstable"
+1646,航空便,"Koukuubin - airmail, airfreight"
+1647,ジャム,Jamu - jam
+1648,スリッパ,Surippa - slippers
+1649,畳む,"tatamu - fold, shut, close"
+1650,トランプ,toranpu - playing cards
+1651,日陰,hikage - shade of the sun
+1652,文房具,"bunbougu - stationery, writing materials"
+1653,免許証,menkyoshou - license
+1654,訳す,yakusu - translate
+1655,よろしい,yoroshii - all right
+1656,両替,ryougae - money exchange
+1657,片付く,"kataduku - be put in order, be finished"
+1658,カップ,kappu - cup
+1659,消しゴム,keshigomi - eraser
+1660,スケート,"suketo - skate, skates"
+1661,鍋,nabe - pan
+1662,寝坊,nebou - oversleeping
+1663,鋏,hasami - scissors
+1664,真っ青,"massao - deep-blue, pale"
+1665,汚す,yogosu - make (something) dirty
+1666,忘れ物,"wasuremono - something left behind, lost item"
+1667,掛け算,kakezan - multiplication
+1668,臭い,kusai - stinky
+1669,突き当たり,tsukiatari - end of a street
+1670,マフラー,"mafura- - scarf, muffler"
+1671,桃,momo - peach
+1672,アクセサリー,"akusesari- - accessories, jewelry"
+1673,あくび,akubi - yawn
+1674,あめ,ame - candy
+1675,上り,"nobori - going up, ascent"
+1676,なるべく,"narubeku - as…as possible, if possible"
+1677,じっと,"jitto - without moving, still"
+1678,食器,shokki - tableware
+1679,延ばす,"nobasu - extend, postpone"
+1680,薬局,"yakkyoku - drugstore, pharmacy"
+1681,雄,osu - male (animal)
+1682,雌,mesu - female (animal)
+1683,和風,wafuu - Japanese inspired
+1684,いびき,ibiki - snoring
+1685,ピクニック,pikunikku - picnic
+1686,地域,"chiiki - region, area"
+1687,勘違い,"kanchigai - misunderstanding, wrong idea or assumption"
+1688,重要,"juuyou - important, essential"
+1689,主人,"shujin - one’s husband, master"
+1690,お宅,otaku - (someone else’s) home
+1691,ハイキング,haikingu - hiking
+1692,畑,"hatake - field, farm"
+1693,ボーイフレンド,boifurendo - boyfriend
+1694,イヤリング,iyaringu - earrings
+1695,ガールフレンド,ga-rufurendo - girlfriend
+1696,柔らか,"yawaraka - soft, gentle"
+1697,納豆,natto - fermented soybeans
+1698,別に,"Betsuni - particularly, not really"
+1699,どうしても,"Doushitemo - by any means, really"
+1700,父親,chichioya - father
+1701,誘う,"sasou - invite, ask out"
+1702,母親,"hahaoya - mother, female parent"
+1703,昼前,"hirumae - in the morning, before noon"
+1704,ふらふら,"furafura - be dizzy, lightheaded"
+1705,こぼす,kobosu - spill (something)
+1706,持ってくる,mottekuru - bring
+1707,振り向く,"Furimuku - turn around, look back"
+1708,洗面所,"Senmenjou - washroom, bathroom"
+1709,外側,"sotogawa - exterior, outside"
+1710,段々,"dandan - gradually, little by little"
+1711,包む,"tsutsumu - wrap, pack"
+1712,無くなる,"nakunaru - get lost, go missing"
+1713,豚,buta - pig
+1714,褒める,"homeru - praise, compliment"
+1715,沸かす,wakasu - boil (water)
+1716,暖める,atatameru - warm (something) up
+1717,換える,"kaeru - exchange, convert"
+1718,安っぽい,"yasuppoi - cheap-looking, tacky"
+1719,ぎらぎら,"giragira - glaring, blinding"
+1720,何とか,"nantoka - somehow, please"
+1721,いよいよ,"iyoiyo - finally, any moment"
+1722,がらがら,garagara - not crowded
+1723,缶詰,kantzume - canned food
+1724,怪我,kega - injury
+1725,寒さ,"samusa - coldness, cold"
+1726,祝日,shukujitsu - holiday
+1727,すき焼き,Sukiyaki - sukiyaki
+1728,葉書,hagaki - postcard
+1729,掃く,haku - sweep
+1730,何しろ,"nanishiro - anyhow, as you may know"
+1731,どんどん,"dondon - quickly, rapidly"
+1732,ぺこぺこ,"pekopeko - hungry, starving"
+1733,ぺらぺら,perapera - fluently
+1734,レインコート,reinkoto - raincoat
+1735,アイス,aisu - ice cream (for short)
+1736,塩辛い,shiokarai - salty
+1737,セロテープ,serote-pu - scotch tape
+1738,大幅,"oohaba - drastically, substantially"
+1739,教育,Kyouiku - education
+1740,工事,"Kouji - construction, repairing"
+1741,担当,tantou - person in charge (of official duties)
+1742,法律,Houritsu - law
+1743,丸,"maru - circle, round"
+1744,発表,happyo - announcement
+1745,研究,"kenkyuu - research, study"
+1746,一方,"ippou - one way, the other party"
+1747,国内,"kokunai - domestic, internal"
+1748,全体,"zentai - whole, total"
+1749,後,"nochi - after, afterward"
+1750,人間,ningen - human being
+1751,刺身,sashimi - sliced raw fish or meat
+1752,ばら,Bara - rose
+1753,ねずみ,"nezumi - rat, mouse"
+1754,以下,ika - below
+1755,昔,"mukashi - old times, the old days"
+1756,訳,"wake - reason, sense"
+1757,違い,"chigai - difference, mistake"
+1758,しっかり,"shikkari - mature, responsible"
+1759,将来,"Shourai - future, in the future"
+1760,不思議,"fushigi - mystery, wonder"
+1761,決して,"kesshite - never, by no means"
+1762,失敗,"shippai - failure, mistake"
+1763,番,"ban - one’s turn, watch"
+1764,出会う,"deau - meet, encounter"
+1765,悩む,"nayamu - be troubled, suffer"
+1766,汗,ase - sweat
+1767,すっかり,"sukkari - all, completely"
+1768,代わり,"kawari - substitution, alternative"
+1769,一言,"hitokoto - single word, brief speech"
+1770,豊か,"yutaka - rich, ample"
+1771,接続,"setsuzoku - connection, joining"
+1772,抱える,kakaeru - hold in one’s arms
+1773,エンジン,enjin - engine
+1774,少女,shoujo - young girl
+1775,無駄,"muda - pointless, waste"
+1776,自動,jidou - automatic operation
+1777,先輩,"senpai - senior, superior"
+1778,眺める,"nagameru - look out, gaze"
+1779,書類,"Shorui - documents, papers"
+1780,年月,"nengetsu - years, period of time"
+1781,燃やす,moyasu - burn (something)
+1782,線路,"senro - railway track, line"
+1783,水着,"mizugi - bathing suit, swimsuit"
+1784,可愛らしい,"kawairashii - lovely, charming"
+1785,仲良し,nakayoshi - good friend
+1786,梅干し,umeboshi - pickled plum
+1787,ドレス,doresu - formal dress
+1788,尽くす,"tsukusu - make utmost efforts, devote to"
+1789,地球,chikyuu - the earth
+1790,不親切,"fushinsetsu - unkind, inconsiderate"
+1791,からから,"karakara - very thirsty, very dry"
+1792,本箱,honbako - bookcase
+1793,横書き,yokogaki - horizontal writing
+1794,そば屋,sobaya - buckwheat noodle shop
+1795,加工,kakou - processing
+1796,実験,jikken - experiment
+1797,愛する,"aisuru - love, care for"
+1798,あんまり,"anmari - (not) that much, (not) so much"
+1799,いきなり,"ikinari - all of a sudden, suddenly"
+1800,表,"omote - front, outside"
+1801,汚れ,"yogore - dirt, blot"
+1802,間,"aida - interval, space between things"
+1803,紫,murasaki - purple
+1804,灰色,"haiiro - ash color, gray"
+1805,血,chi - blood (colloquial)
+1806,顎,"ago - jaw, chin"
+1807,始めに,"hajimeni - in the beginning, first"
+1808,暖まる,atatameru - get warm
+1809,お世辞,"oseji - compliment, flattery"
+1810,袋,"fukuro - bag, sack"
+1811,長袖,nagasode - long sleeves
+1812,半袖,hansode - short sleeves
+1813,形,"katachi - shape, form"
+1814,景色,keshiki - natural scenery or landscape
+1815,ざあざあ,zaazaa - pouring
+1816,再来月,saraigetsu - the month after next
+1817,泊める,tomeru - let (someone) stay over
+1818,叱る,"shikaru - scold, reprimand"
+1819,騒ぐ,"sawagu - make a noise, make a racket"
+1820,車道,"Shadou - road, roadway (for cars)"
+1821,掃除機,Soujiki - vacuum cleaner
+1822,剃る,soru - shave
+1823,貼る,"haru - stick, paste, put"
+1824,台,"dai - stand, table"
+1825,主に,"omoni - mostly, predominantly"
+1826,倒す,"taosu - knock down, overthrow"
+1827,星,"hoshi - star, planet"
+1828,長女,choujo - eldest daughter
+1829,爪,"tsume - nail, claw"
+1830,缶,"kan - can, tin"
+1831,とんとん,"tonton - tapping, patting"
+1832,袖,sode - sleeve
+1833,濡れる,nureru - get wet
+1834,パーセント,pa-sento - percent
+1835,上がる,"agaru - go up, increase (in quality or quantity)"
+1836,拍手,"hakushu - applause, clapping"
+1837,弾く,hiku - play (instruments)
+1838,ひも,"himo - laces, string"
+1839,昼過ぎ,hirusugi - early afternoon
+1840,船,"fune - ship, vessel"
+1841,まく,"maku - scatter, sprinkle"
+1842,姪,mei - niece
+1843,個人,kojin - individual person
+1844,歌手,kashu - singer
+1845,社員,"Shain - staff member, employee"
+1846,不動産屋,fudousanya - real estate agent
+1847,最大,"saidai - biggest, largest"
+1848,動き,"ugoki - movement, motion"
+1849,事件,"jiken - affair, incident"
+1850,過去,kako - the past
+1851,協力,"kyouryoku - cooperation, collaboration"
+1852,時期,"jiki - time, season"
+1853,経つ,"tatsu - pass, elapse"
+1854,雷,"kaminari - thunder, lightning"
+1855,責任,sekinin - responsibility
+1856,願う,"negau - wish, desire"
+1857,発見,"hakken - discovery, revelation"
+1858,気,"ki - spirit, temperament"
+1859,美容院,byouin - hair salon
+1860,状況,"joukyou - state of affairs, conditions"
+1861,目的,"mokuteki - objective, purpose"
+1862,企業,"kigyou - corporation, business"
+1863,釣り,tsuri - fishing
+1864,漫画,"manga - comics, cartoon"
+1865,温泉,onsen - hot spring
+1866,トレーニング,"tore-ningu - training, workout"
+1867,噂,"uwasa - gossip, rumor"
+1868,本物,"honmono - real, truly worthy (things, people)"
+1869,アイデア,aidea - idea
+1870,地下,chika - underground
+1871,マーケット,ma-ketto - market
+1872,スケジュール,sukeju-ru - schedule (loan word)
+1873,出張,shucchou - business trip
+1874,コック,"kokku - cook, chef"
+1875,正午,shougo - noon
+1876,ブラシ,burashi - brush
+1877,書き取る,"kakitoru - write down, note down"
+1878,歓迎,"kangei - welcome, greet"
+1879,開発,kaihatsu - development
+1880,郵便屋さん,yuubinyasan - mail carrier
+1881,会長,"kaichou - president, chairperson"
+1882,金,kin - gold
+1883,灰,hai - ashes
+1884,骨,hone - bone
+1885,風呂屋,"furoya - bathhouse, public bath"
+1886,細か,"komaka - small, fine, detailed"
+1887,行き,"yuki - going, bound for (traditional reading)"
+1888,人々,hitobito - people
+1889,寺,tera - temple
+1890,鶏,"niwatori - rooster, hen"
+1891,港,"minato - port, harbor"
+1892,移る,"utsuru - move, shift"
+1893,異なる,kotonaru - differ
+1894,提供,"teikyou - offer, provide"
+1895,市民,shimin - citizens
+1896,患者,kanja - patient
+1897,元旦,"gantan - morning of the January 1st, New Year’s Day"
+1898,柔らかい,"yawarakai - soft, gentle"
+1899,似合う,"niau - suit, match well"
+1900,確かめる,"tashikameru - check, confirm"
+1901,背中,senaka - (one’s) back
+1902,肌,"hada - human skin, surface"
+1903,順番,"junban - order, turn"
+1904,まとも,"matomo - sane, reasonable"
+1905,ぴったり,"pittari - exactly right, perfect"
+1906,思わず,"omowazu - unintentionally, unconsciously"
+1907,より,"yori - even more ~, even less ~"
+1908,もったいない,"mottainai - wasteful, a shame"
+1909,情報,jouhou - information
+1910,諦める,"akirameru - abandon, give up"
+1911,懐かしい,"natsukashii - fondly-remembered, long-forgotten"
+1912,怪しい,"ayashii - suspicious, dubious"
+1913,示す,"shimesu - show, indicate"
+1914,たっぷり,"tappuri - fully, amply"
+1915,早速,"sassoku - immediately, right away"
+1916,偶然,"guuzen - by chance, coincidence"
+1917,続き,"tsuduki - continuation, sequel"
+1918,合計,"goukei - sum, total"
+1919,傷,"kizu - wound, scar"
+1920,面倒,"mendou - troublesome, difficult"
+1921,具合,"guai - condition, health"
+1922,中止,"chuushi - suspension, cancellation"
+1923,手続き,"tetsuduki - procedure, proceeding"
+1924,結果,"kekka - result, outcome"
+1925,建設,"kensetsu - construction (of a building, road, bridge, etc.)"
+1926,販売,"hanbai - sale, selling"
+1927,機能,"kinou - function, feature"
+1928,頃,"koro - time, the time when ~"
+1929,日中,Nicchuu - during the day
+1930,今後,"Kongo - in the future, from now on"
+1931,影響,"eikyou - influence, effect"
+1932,分野,"bunya - field, area"
+1933,関する,"kansuru - relate to, regarding"
+1934,状態,"joutai - state, condition"
+1935,価格,"kakaku - price, value"
+1936,姿,"sugata - figure, appearance"
+1937,期待,"kitai - expectation, anticipation"
+1938,除く,"nozoku - remove, exclude"
+1939,一般,"ippan - general, common"
+1940,表現,hyougen - expression
+1941,完成,"kansei - completion, finish making or building something"
+1942,変化,"henka - change, alteration"
+1943,参加,sanka - participation
+1944,土地,tochi - land
+1945,検討,kentou - examination and consideration
+1946,開始,kaishi - beginning
+1947,備える,"sonaete - provide for, prepare for"
+1948,内容,naiyou - content
+1949,与える,ataeru - give (formal)
+1950,広がる,"hirogaru - spread out, extend"
+1951,事実,"jijitsu - fact, truth"
+1952,決定,kettei - decision
+1953,住宅,"juutaku - housing, residence"
+1954,代表,daihyou - representative
+1955,命令,"meirei - command, order"
+1956,立場,"tachiba - standpoint, position"
+1957,なお,"Nao - still, in addition"
+1958,計算,keisan - calculation
+1959,可能,"kanou - possible, potential"
+1960,報告,houkoku - report
+1961,都市,"toshi - city, town"
+1962,政治,seiji - politics
+1963,競争,kyousou - competition
+1964,原因,"genin - cause, origin"
+1965,活動,katsudou - activity
+1966,歴史,rekishi - history
+1967,表,"hyou - table, list"
+1968,サイト,saito - website
+1969,土産,miyage - souvenir (plain)
+1970,臭い,nioi - (bad) smell
+1971,現金,genkin - cash
+1972,虫,"mushi - insect, bug"
+1973,寄る,"yoru - stop by, stop off"
+1974,田舎,"inaka - hometown, countryside"
+1975,帰宅,"kitaku - return home, come home"
+1976,重大,"juudai - important, serious"
+1977,マイナス,"mainasu - minus, below zero"
+1978,稼ぐ,"kasegu - earn, make money"
+1979,左右,sayuu - right and left
+1980,痛み,"itami - pain, ache"
+1981,誤解,gokai - misunderstanding
+1982,文句,"monku - complaint, grumble"
+1983,欧米,oubei - Europe and America
+1984,面接,mensetsu - interview
+1985,サイン,"sain - signature, autograph"
+1986,年中,nenjuu - all year
+1987,機嫌,"kigen - mood, health"
+1988,居間,ima - living room
+1989,度々,tabitabi - often
+1990,例文,reibun - example sentence
+1991,怠ける,"namakeru - be lazy, slack off"
+1992,転勤,"tenkin - change of job location, relocation"
+1993,政府,"seifu - government, administration"
+1994,所有,"shoyuu - ownership, own"
+1995,いずれ,"izure - sometime later, eventually"
+1996,対する,"taisuru - face, be in response to"
+1997,教会,kyoukai - church
+1998,ご存知,gozonji - know (honorific)
+1999,雀,suzume - sparrow
+2000,適当,"tekitou - proper, adequate"
+2001,残り,"nokori - rest, leftover"
+2002,戻す,modosu - put (something) back
+2003,体重,taijuu - body weight
+2004,どうせ,douse - anyway
+2005,あれこれ,"arekore - this and that, one thing or another"
+2006,湖,mizuumi - lake
+2007,とうとう,"toutou - finally, in the end"
+2008,負け,"make - defeat, loss"
+2009,悔しい,"kuyashii - frustrating, regrettable"
+2010,姉妹,shimai - sisters
+2011,助かる,"tasukaru - be helped, be rescued"
+2012,手前,temae - in front
+2013,さっぱり,sappari - completely not
+2014,ついで,"tsuide - on the way, to take the opportunity"
+2015,すっきり,sukkiri - refreshed
+2016,とんでもない,"tondemonai - unthinkable, outrageous"
+2017,坂,"saka - slope, hill"
+2018,飛び込む,"tobikomu - dive into, jump into"
+2019,コメント,komento - comment
+2020,書き直す,kakinaosu - rewrite
+2021,看護婦,kangofu - female nurse
+2022,就職,"shuushoku - finding a job, getting a job"
+2023,糸,"ito - thread, yarn"
+2024,売り場,"uriba - sales floor, department"
+2025,校長,"kouchou - principal, schoolmaster"
+2026,見学,kengaku - field trip
+2027,進学,shingaku - advance to higher education
+2028,退院,taiin - discharge from hospital
+2029,テント,tento - tent
+2030,踊り,"odori - dance, dancing"
+2031,植える,"ueru - plant, sow"
+2032,幼稚園,youchien - kindergarten
+2033,エアメール,eameeru - airmail
+2034,四季,shiki - the four seasons
+2035,ナイロン,nairon - nylon
+2036,消防車,shoubousha - fire engine
+2037,ハンドバッグ,handobaggu - handbag
+2038,農業,nougyou - agriculture
+2039,アイロン,airon - iron (for clothes)
+2040,ラッシュアワー,rasshuawaa - rush hour
+2041,速達,"sokutatsu - special delivery, express delivery"
+2042,予習,"yoshuu - preparation, previewing (a lesson)"
+2043,書留,kakitome - registered mail
+2044,深さ,"fukasa - depth, profundity"
+2045,ウィスキー,wisukii - whisky
+2046,シャープペンシル,shaapupenshiru - mechanical pencil
+2047,取引,"torihiki - transaction, deal"
+2048,設ける,"moukeru - set up, establish"
+2049,一定,"ittei - fixed, certain"
+2050,記者,"kisha - journalist, reporter"
+2051,基準,"kijun - standard, criterion"
+2052,傾向,"keikou - tendency, disposition"
+2053,契約,"keiyaku - contract, agreement"
+2054,産業,sangyou - industry
+2055,事情,"jijou - circumstances, conditions"
+2056,実行,"jikkou - practice, execution"
+2057,組織,"soshiki - organization, structure"
+2058,逮捕,"taiho - arrest, capture"
+2059,程度,"teido - degree, extent"
+2060,同様,"douyou - similar, the same as"
+2061,要求,"youkyuu - need, demand"
+2062,貿易,boueki - (export and import) trade
+2063,輸出,yushutsu - export
+2064,商業,"shougyou - commerce, trade"
+2065,船便,"funabin - surface mail, shipping service"
+2066,選挙,senkyo - election
+2067,住民,juumin - resident
+2068,出席,"shusseki - attendance, presence"
+2069,発言,"hatsugen - utterance, remark"
+2070,伴う,"tomonau - accompany, entail"
+2071,採用,"saiyou - employment, adoption"
+2072,処理,"shori - handling, processing"
+2073,解決,"kaiketsu - solution, settlement"
+2074,全国,zenkoku - the whole country
+2075,作業,"sagyou - work, operation"
+2076,生産,seisan - production
+2077,管理,"kanri - management, administration"
+2078,増加,"zouka - increase, rise"
+2079,特徴,"tokuchou - distinctive feature, characteristic"
+2080,強調,"kyouchou - emphasis, stress"
+2081,制度,seido - system
+2082,株,"kabu - stock, share"
+2083,加える,kuwaeru - add (things of the same or different kinds)
+2084,強化,kyouka - strengthening
+2085,設計,"sekkei - design, plan"
+2086,段階,"dankai - stage, phase"
+2087,行う,"okonau - do, carry out"
+2088,経済,"keizai - economy, economics"
+2089,工場,"koujou - factory, plant"
+2090,技術,"gijutsu - skill, technology"
+2091,施設,"shisetsu - facilities, institution"
+2092,神,kami - God
+2093,人口,jinkou - population
+2094,党,"tou - party, faction"
+2095,輸入,yunyuu - import
+2096,煮る,"niru - simmer, cook"
+2097,コンサート,konsaato - concert
+2098,ガソリン,gasorin - gasoline
+2099,パンツ,"pantsu - pants, trousers"
+2100,そっくり,sokkuri - almost identical
+2101,名刺,"meishi - business card, name card"
+2102,いちいち,"ichiichi - every time, about everything"
+2103,しつこい,"shitsukoi - persistent, pesky"
+2104,喉,nodo - throat
+2105,身長,shinchou - height
+2106,何で,"nande - why, what for"
+2107,味噌,miso - soybean paste
+2108,気の毒,"kinodoku - pitiful, poor"
+2109,そっと,"sotto - softly, gently"
+2110,こっそり,kossori - secretly
+2111,うっかり,"ukkari - carelessly, accidentally"
+2112,わざと,wazato - on purpose
+2113,がっかり,"gakkari - disappointed, disappointing"
+2114,ぼんやり,"bonyari - vacantly, absent-mindedly"
+2115,酢,su - vinegar
+2116,羨ましい,"urayamashii - envious, jealous"
+2117,捕まえる,"tsukamaeru - catch, arrest"
+2118,ちっとも,chittomo - not at all
+2119,親指,oyayubi - thumb
+2120,通り過ぎる,"toorisugiru - go past, pass"
+2121,屋上,"okujou - housetop, rooftop"
+2122,蓋,"futa - lid, cover"
+2123,いつの間にか,"itsunomanika - before noticing it, out of nowhere"
+2124,象,zou - elephant
+2125,嫌がる,"iyagaru - dislike, be unwilling"
+2126,わがまま,wagamama - selfish
+2127,徹夜,tetsuya - staying up all night
+2128,まあまあ,"maamaa - now now, well well"
+2129,ふざける,"fuzakeru - mess around, fool around"
+2130,一度に,"ichidoni - all at once, at a time"
+2131,頷く,unazuku - nod
+2132,改札,kaisatsu - ticket gate
+2133,手伝い,"tetsudai - help, assistance"
+2134,とっくに,"tokkuni - long ago, already"
+2135,洗剤,senzai - detergent
+2136,手首,tekubi - wrist
+2137,日帰り,higaeri - a day trip
+2138,取り消す,torikesu - cancel
+2139,あきれる,"akireru - be amazed at, be stunned by (something negative)"
+2140,月末,getsumatsu - end of the month
+2141,咳,seki - cough
+2142,あいにく,"ainiku - unfortunately, we are afraid that"
+2143,近寄る,"chikayoru - go near, approach"
+2144,うろうろ,"urouro - in a loafing-about manner, not really knowing what to do"
+2145,重たい,"omotai - heavy, serious"
+2146,かじる,"kajiru - nibble, bite"
+2147,長引く,"nagabiku - be prolonged, drag on"
+2148,せっせと,"sesseto - diligently, hard"
+2149,横切る,yokogiru - cut across
+2150,取り替える,"torikaeru - change, replace"
+2151,からかう,"karakau - make fun of, tease"
+2152,好き嫌い,"sukikirai - likes and dislikes, taste"
+2153,蒸し暑い,mushiatsui - hot and humid
+2154,支度,"shitaku - preparation, getting ready"
+2155,薄暗い,"usugurai - gloomy, dim"
+2156,着替え,kigae - change of clothes
+2157,ワンピース,wanpiisu - one-piece dress
+2158,生年月日,seinengappi - year and date of birth
+2159,虫歯,mushiba - cavity
+2160,留守番,rusuban - looking after the house
+2161,張り切る,"harikiru - go all out, be full of energy (to do something)"
+2162,意地悪,"ijiwaru - mean, ill-natured"
+2163,生意気,"namaiki - impudent, cocky"
+2164,シーツ,shiitsu - bed sheet
+2165,フライパン,furaipan - frying pan
+2166,一人一人,hitorihitori - each and every person
+2167,話し掛ける,"hanashikakeru - start a conversation, speak to (someone)"
+2168,追い掛ける,"oikakeru - chase, run after"
+2169,小指,"koyubi - little finger, little toe"
+2170,ぴかぴか,"pikapika - shiny, glittering"
+2171,中指,"nakayubi - middle finger, middle toe"
+2172,まぶた,mabuta - eyelid
+2173,面倒臭い,"mendoukusai - troublesome, tiresome"
+2174,ゆでる,yuderu - boil
+2175,できるだけ,dekirudake - as (much) as possible
+2176,もしかしたら,"moshikashitara - possibly, perhaps"
+2177,いつまでも,itsumademo - forever
+2178,まぶしい,"mabushii - dazzling, glaring"
+2179,おやつ,"oyatsu - snack, refreshment"
+2180,空っぽ,karappo - empty
+2181,ぶつぶつ,"butsubutsu - in a mutter, mumble"
+2182,すっと,"sutto - (feel) refreshed, satisfied"
+2183,図々しい,"zuuzuushii - impudent, cheeky"
+2184,にっこり,nikkori - smiling brightly
+2185,けち,"kechi - stingy, miser"
+2186,追い付く,oitsuku - catch up with
+2187,くしゃみ,kushami - sneeze
+2188,冷ます,samasu - let cool
+2189,だらしない,"darashinai - untidy, sloppy"
+2190,甘やかす,"amayakasu - be indulgent to, spoil"
+2191,いらいら,iraira - irritated
+2192,薬指,kusuriyubi - ring finger
+2193,のろのろ,"noronoro - slowly, sluggishly"
+2194,ポイント,pointo - point
+2195,工業,"kougyou - industry, the manufacturing industry"
+2196,構造,"kouzou - construction, structure"
+2197,さすが,"sasuga - just as expected, true to reputation"
+2198,居眠り,"inemuri - doze, catnap"
+2199,散らかす,chirakasu - make a mess
+2200,濡らす,nurasu - get (something) wet
+2201,日にち,hinichi - date (fixed for something)
+2202,苛める,"ijimeru - bully, abuse"
+2203,足下,"ashimoto - step, under foot"
+2204,うさぎ,"usagi - rabbit, hare"
+2205,紺,"kon - dark blue, navy blue"
+2206,目茶苦茶,"mechakucha - in a mess, chaotic"
+2207,立ち入り禁止,tachiirikinshi - no trespassing
+2208,間もなく,"mamonaku - soon, in a short time"
+2209,通帳,"tsuuchou - bankbook, passbook"
+2210,しびれる,"shibireru - go numb, fall asleep"
+2211,ぎっしり,"gisshiri - tightly, closely"
+2212,うがい,ugai - gargling
+2213,思い付く,"omoitsuku - think of, hit upon"
+2214,宛名,"atena - name of recipient, addressee"
+2215,戸棚,todana - cupboard
+2216,焦げる,"kogeru - be burned, be scorched"
+2217,かく,kaku - scratch
+2218,威張る,"ibaru - be arrogant, be boastful"
+2219,人混み,hitogomi - crowd
+2220,ずらり,zurari - lining up neatly
+2221,思い切り,"omoikiri - to one’s heart’s content, with all one’s might"
+2222,青白い,aojiroi - pale
+2223,しゃがむ,shagamu - squat down
+2224,言葉遣い,"kotobadukai - wording, language"
+2225,通り掛かる,toorikakaru - happen to pass by
+2226,御無沙汰,gobusata - be out of touch
+2227,市場,"shijou - market (industrial, financial, etc.)"
+2228,データ,deeta - data
+2229,購入,kounyuu - purchase
+2230,ビジネス,bijinesu - business
+2231,俺,ore - I (masculine sense)
+2232,登録,touroku - registration
+2233,体験,taiken - personal experience
+2234,デザイン,dezain - design
+2235,負担,"futan - burden, charge"
+2236,詳細,"shousai - details, particulars"
+2237,アップ,appu - close-up
+2238,終了,"shuuryou - end, termination"
+2239,ファン,"fan - fan, admirer"
+2240,予想,"yosou - expectation, forecast"
+2241,企画,"kikaku - planning, project"
+2242,財政,"zaisei - public finance, financial affairs"
+2243,総合,"sougou - integration, put together"
+2244,ケース,keesu - case
+2245,メーカー,"meekaa - maker, manufacturer"
+2246,治療,chiryou - medical treatment
+2247,読者,dokusha - reader
+2248,職員,"shokuin - staff, employee"
+2249,世代,sedai - generation
+2250,視点,"shiten - viewpoint, perspective"
+2251,効率,"kouritsu - efficiency, performance"
+2252,資産,"shisan - property, assets"
+2253,取り組む,"torikumu - work on, tackle"
+2254,ルール,ruuru - rule
+2255,資格,"shikaku - qualifications, competence"
+2256,成果,seika - result
+2257,前提,"zentei - assumption, premise"
+2258,現地,"genchi - local, on-site"
+2259,内部,"naibu - interior, inner parts"
+2260,所得,"shotoku - income, earnings"
+2261,恋愛,"renai - romance, relationship"
+2262,支持,shiji - support
+2263,危機,"kiki - crisis, danger"
+2264,マスコミ,"masukomi - mass media, media"
+2265,証拠,"shouko - proof, evidence"
+2266,コーナー,"koonaa - section (of a store etc.), corner"
+2267,マーク,maaku - logo
+2268,減少,"genshou - decrease, decline"
+2269,緊急,"kinkyuu - urgent, emergency"
+2270,要望,"youbou - demand, request"
+2271,ストレス,sutoresu - stress
+2272,主催,"shusai - sponsorship, host"
+2273,ベスト,besuto - best
+2274,犠牲,"gisei - sacrifice, loss"
+2275,暴力,"bouryoku - violence, force"
+2276,赤字,"akaji - deficit, in the red"
+2277,個性,"kosei - individuality, unique characteristics"
+2278,作戦,"sakusen - tactic, strategy"
+2279,ショック,shokku - shock
+2280,アンケート,ankeeto - questionnaire
+2281,わざわざ,wazawaza - going out of one’s way to do something
+2282,本気,"honki - serious, earnest"
+2283,悩み,"nayami - troubles, worries"
+2284,上司,joushi - boss
+2285,説得,settoku - persuasion
+2286,ブーム,"buumu - fad, boom"
+2287,体力,"tairyoku - physical strength, stamina"
+2288,正常,seijou - normal
+2289,ヒント,"hinto - hint, clue"
+2290,地獄,jigoku - hell
+2291,後悔,koukai - regret
+2292,情熱,"jounetsu - passion, enthusiasm"
+2293,驚き,"odoroki - surprise, amazement"
+2294,ジャンプ,janpu - jump
+2295,アルコール,"arukooru - alcohol, alcoholic beverage"
+2296,いい加減,"iikagen - irresponsible, careless"
+2297,わくわく,"wakuwaku - feel excited, be thrilled"
+2298,言い訳,iiwake - excuse
+2299,ミュージック,myuujikku - music
+2300,青春,"seishun - blossom of youth, adolescence"
+2301,あっさり,"assari - bluntly, easily"
+2302,焦る,"aseru - feel pressured, feel hurried"
+2303,柔軟,"juunan - pliable, flexible"
+2304,タレント,"tarento - celebrity, TV personality"
+2305,どうにか,dounika - somehow
+2306,コンテスト,"kontesuto - contest, competition"
+2307,もてる,moteru - be popular (esp. with the opposite sex)
+2308,デザート,dezaato - dessert
+2309,クイズ,"kuizu - quiz, quiz show"
+2310,中毒,"chuudoku - poisoning, addiction"
+2311,ムード,muudo - mood
+2312,同情,"doujou - sympathy, compassion"
+2313,学歴,gakureki - educational background
+2314,好調,kouchou - good condition
+2315,アマチュア,amachua - amateur
+2316,炒める,itameru - stir-fry
+2317,カメラマン,kameraman - photographer
+2318,問い合わせる,"toiawaseru - inquire, ask for (information)"
+2319,しょっちゅう,"shocchuu - frequently, repeatedly"
+2320,ロープ,roopu - rope
+2321,ストライキ,sutoraiki - strike
+2322,パンク,panku - flat tire
+2323,コマーシャル,"komaasharu - commercial, advertising"
+2324,チェンジ,"chenji - change, exchange"
+2325,待ち合わせ,"machiawase - meeting with someone, appointment"
+2326,時差,jisa - time difference
+2327,義理,"giri - sense of duty, obligation"
+2328,さっと,satto - quickly
+2329,左利き,hidarikiki - left-handedness
+2330,サボる,"saboru - slack of, ditch"
+2331,だるい,"darui - feel run-down, weary"
+2332,ポット,"potto - pot, thermos"
+2333,レントゲン,rentogen - X-rays
+2334,心強い,"kokoroduyoi - reassuring, heartening"
+2335,無駄遣い,mudadukai - wasteful spending
+2336,バッジ,bajji - badge
+2337,眼科,"ganka - ophthalmology, eye clinic"
+2338,履歴書,"rirekisho - resume, curriculum vitae"
+2339,インフレーション,infureeshon - inflation
+2340,癌,gan - cancer
+2341,ぺこぺこ,"pekopeko - bow, kowtow"
+2342,嘘つき,usotsuki - liar
+2343,おごる,"ogoru - treat, pay for (someone)"
+2344,十字路,juujiro - crossroads
+2345,びっしょり,"bisshori - drenched, soaked"
+2346,だぶだぶ,"dabudabu - baggy, too big"
+2347,おだてる,odateru - flatter
+2348,かかと,kakato - heel
+2349,ほっと,hotto - feel relieved
+2350,傷付ける,"kizutsukeru - hurt (someone), damage (something)"
+2351,うつむく,"utsumuku - look down, lower one’s eyes"
+2352,前売り券,maeuriken - advance ticket
+2353,短期,tanki - short-term
+2354,舐める,nameru - lick
+2355,本日,honjitsu - today (formal)
+2356,業界,"gyoukai - industry, business world"
+2357,ネットワーク,nettowaaku - network
+2358,弁護士,"bengoshi - lawyer, attorney"
+2359,入力,"nyuuryoku - input, entry"
+2360,前回,zenkai - last time
+2361,画面,gamen - screen
+2362,後半,"kouhan - latter half, second half"
+2363,自信,jishin - confidence
+2364,素敵,"suteki - lovely, nice"
+2365,当たり前,"atarimae - no wonder, natural"
+2366,やり方,yarikata - way of doing
+2367,わずか,"wazuka - meager, marginal"
+2368,ついに,"tsuini - at last, at length"
+2369,次回,jikai - next time
+2370,スピード,supiido - speed
+2371,バイト,baito - part-time job
+2372,不可能,fukanou - impossible
+2373,アドバイス,adobaisu - advice
+2374,落ち着く,"ochitsuku - calm down, settle in"
+2375,せっかく,sekkaku - with much trouble
+2376,つい,"tsui - inadvertently, carelessly"
+2377,大手,oote - major company
+2378,部長,buchou - department head
+2379,前半,zenhan - first half
+2380,たまたま,"tamatama - by chance, accidentally"
+2381,相変わらず,"aikawarazu - as usual, as before"
+2382,支払い,shiharai - payment
+2383,人数,ninzuu - number of people
+2384,課長,kachou - section chief
+2385,ファッション,fasshon - fashion
+2386,体調,taichou - health condition
+2387,付き合う,"tsukiau - socialize with, see (someone)"
+2388,ショッピング,shoppingu - shopping
+2389,あり,ari - ant
+2390,最悪,saiaku - worst
+2391,かえる,kaeru - frog
+2392,おじさん,"ojisan - Mister, middle-aged man"
+2393,得,"toku - advantage, gain"
+2394,掴む,"tsukamu - grip, grab"
+2395,知り合い,shiriai - acquaintance
+2396,ペース,peesu - pace
+2397,作成,"sakusei - to produce, to make"
+2398,親子,oyako - parent and child
+2399,話し合い,"hanashiai - talk, discussion"
+2400,本社,honsha - head office of a company
+2401,打ち合わせ,"uchiawase - meeting, arrangement"
+2402,見守る,"mimamoru - watch, keep watch over"
+2403,売り上げ,"uriage - sales, proceeds"
+2404,かえって,"kaette - rather, instead"
+2405,アイドル,aidoru - idol
+2406,何となく,nantonaku - for some reason
+2407,年末,nenmatsu - end of year
+2408,無意識,"muishiki - unconsciously, unintentionally"
+2409,駅前,ekimae - in front of the station
+2410,やって来る,yattekuru - come all the way
+2411,キッチン,kicchin - kitchen
+2412,キス,kisu - kiss
+2413,慌てる,"awateru - be flustered, be in a hurry"
+2414,都内,tonai - in the metropolitan area of Tokyo
+2415,残業,zangyou - overtime work
+2416,曖昧,"aimai - ambiguous, vague"
+2417,カタログ,katarogu - catalogue
+2418,殴る,"naguru - hit, punch"
+2419,両手,ryoute - both hands
+2420,仲良く,"nakayoku - harmoniously, getting along"
+2421,始め,"hajime - beginning, initial part"
+2422,知り合う,"shiriau - get acquainted with, get to know (someone)"
+2423,お手伝い,"otetsudai - help, assistance (polite)"
+2424,マナー,manaa - manners
+2425,カラオケ,karaoke - karaoke
+2426,二度と,nidoto - never again
+2427,片手,katate - one hand
+2428,おばさん,obasan - middle-aged woman
+2429,保育園,"hoikuen - day-care center, nursery school"
+2430,ずれる,"zureru - go off track, go out of line"
+2431,ビーチ,biichi - beach
+2432,せいぜい,"seizei - at most, at best"
+2433,後期,"kouki - latter term, second half"
+2434,エアコン,"eakon - air-conditioning, air conditioner"
+2435,ゆったり,"yuttari - comfortable, easy fit"
+2436,ハードウェア,haadowea - hardware
+2437,リクエスト,rikuesuto - request
+2438,翌年,yokunen - the following year
+2439,キャンセル,kyanseru - cancellation
+2440,車内,shanai - inside a vehicle or a train
+2441,大声,oogoe - loud voice
+2442,無責任,musekinin - irresponsible
+2443,片方,"katahou - one side, the other one"
+2444,ボリューム,boryuumu - volume
+2445,前方,"zenpou - front, ahead"
+2446,日本酒,nihonshu - Japanese rice wine
+2447,青空,aozora - blue sky
+2448,不自然,"fushizen - unnatural, artificial"
+2449,昨晩,"sakuban - last night, last evening (formal)"
+2450,市役所,"shiyakusho - municipal office, city hall"
+2451,フルーツ,furuutsu - fruit
+2452,年々,nennen - year by year
+2453,後方,"kouhou - back, rear"
+2454,お詫び,"owabi - apologize, apology"
+2455,大根,daikon - oriental radish
+2456,むく,muku - peel (something)
+2457,例年,"reinen - typical year, average year"
+2458,締め切り,shimekiri - deadline
+2459,正に,"masani - just, surely"
+2460,蛇,hebi - snake
+2461,ラッシュ,"rasshu - rush, rush hour"
+2462,大げさ,oogesa - exaggerated
+2463,無理やり,"muriyari - forcibly, against one’s will"
+2464,外食,"gaishoku - eating out, dining out"
+2465,キャベツ,kyabetsu - cabbage
+2466,手足,"teashi - hands and feet, limbs"
+2467,閉店,heiten - shop closing
+2468,百貨店,hyakkaten - department store
+2469,クッキー,kukkii - cookie
+2470,車椅子,kurumaisu - wheelchair
+2471,大雨,ooame - heavy rain
+2472,鳩,"hato - pigeon, dove"
+2473,中級,"chuukyuu - middle-class, intermediate"
+2474,おにぎり,onigiri - rice ball
+2475,ひょっとしたら,hyottoshitara - perhaps
+2476,ぐるぐる,guruguru - round and round
+2477,和食,washoku - Japanese-style food
+2478,どく,"doku - get out of the way, step aside"
+2479,ウエスト,uesuto - waist
+2480,忘年会,bounenkai - year-end party
+2481,包丁,houchou - kitchen knife
+2482,ゴールデンウィーク,goorudenwiiku - golden week
+2483,シューズ,shuuzu - shoes
+2484,未成年,"miseinen - minor, underage"
+2485,甥,oi - nephew
+2486,葉っぱ,happa - leaf
+2487,やり直す,yarinaosu - do over again
+2488,大晦日,oomisoka - new year’s eve
+2489,サングラス,sangurasu - sunglasses
+2490,病人,byounin - sick person
+2491,顔色,"kaoiro - complexion, facial expression"
+2492,金色,kiniro - golden color
+2493,にらむ,"niramu - glare, stare"
+2494,つかまる,tsukamaru - hold on to (something)
+2495,足首,ashikubi - ankle
+2496,散らかる,"chirakaru - be in a mess, lie scattered"
+2497,上がる,agaru - get nervous
+2498,かぼちゃ,kabocha - pumpkin
+2499,水族館,suizokukan - aquarium
+2500,品切れ,shinagire - sold out
+2501,腫れる,"hareru - swell up, be swollen"
+2502,やり直し,"yarinaoshi - doing over, redoing"
+2503,バーゲン,baagen - bargain sale
+2504,男らしい,"otokorashii - manly, masculine"
+2505,近道,chikamichi - shortcut
+2506,トースト,toosuto - toast
+2507,好奇心,koukishin - curiosity
+2508,実用的,jitsuyouteki - practical
+2509,客観的,kyakkanteki - objective
+2510,抽象的,chuushouteki - abstract
+2511,送別会,soubetsukai - farewell party
+2512,敷金,"shikikin - deposit, security deposit"
+2513,日米,nichibei - Japan and the US
+2514,専門家,"senmonka - specialist, expert"
+2515,ホット,hotto - hot
+2516,わさび,wasabi - Japanese horseradish
+2517,初詣,hatsumoude - first shrine visit of the new year
+2518,ジョギング,jogingu - jogging
+2519,社会人,shakaijin - working member of society
+2520,大急ぎ,ooisogi - in a great hurry
+2521,セルフサービス,serufusaabisu - self-service
+2522,くしゃくしゃ,"kushakusha - messy, crumpled"
+2523,食パン,shokupan - bread in a rectangular shape
+2524,人差し指,"hitosashiyubi - index finger, forefinger"
+2525,洋食,youshoku - Western food
+2526,じめじめ,jimejime - damp
+2527,じろじろ,jirojiro - staringly
+2528,つるつる,"tsurutsuru - smooth, slippery"
+2529,こしょう,koshou - pepper
+2530,びしょびしょ,"bishobisho - soaking wet, soaked"
+2531,ぎゅうぎゅう,"gyuugyuu - packed, crammed"
+2532,バツ,"batsu - cross, x-mark (on errors, mistakes etc.)"
+2533,水色,mizuiro - light blue
+2534,領収書,ryoushuusho - bill of receipt (for payment only)
+2535,自然に,shizenni - naturally
+2536,とんかつ,tonkatsu - pork cutlet
+2537,ねぎ,"negi - spring onion, green onion"
+2538,きゅうり,kyuuri - cucumber
+2539,鰻,unagi - eel
+2540,まぐろ,maguro - tuna
+2541,パイナップル,painappuru - pineapple
+2542,ほうれん草,hourensou - spinach
+2543,マヨネーズ,mayoneezu - mayonnaise
+2544,玉ねぎ,tamanegi - onion
+2545,焼き肉,"yakiniku - grilled meat, barbecued meat"
+2546,目薬,megusuri - eye drops
+2547,寝過ごす,nesugosu - oversleep
+2548,国際的,kokusaiteki - international
+2549,国際化,kokusaika - internationalization
+2550,区役所,kuyakusho - ward office
+2551,和室,washitsu - Japanese-style room
+2552,本格的,"honkakuteki - authentic, serious"
+2553,高速道路,"kousokudouro - freeway, expressway"
+2554,とりあえず,"toriaezu - for now, for the time being"
+2555,先に,"sakini - before, ahead"
+2556,ぎりぎり,"girigiri - just in time, barely"
+2557,慌ただしい,awatadashii - busy and hurried
+2558,今ごろ,"imagoro - by now, at this time"
+2559,くっ付く,"kuttsuku - stick, be attached"
+2560,北風,kitakaze - north wind
+2561,海老,ebi - shrimp
+2562,思い切って,"omoikitte - daringly, taking the plunge"
+2563,はっと,"hatto - taken aback, startled"
+2564,宛先,atesaki - recipient’s address
+2565,ばらばら,"barabara - separately, discretely"
+2566,乗車券,"joushaken - train ticket, bus ticket"
+2567,ぶるぶる,"buruburu - shivering, trembling"
+2568,すらすら,"surasura - smoothly, easily"
+2569,終電,shuuden - last train
+2570,ずるい,"zurui - cunning, sneaky"
+2571,すやすや,"suyasuya - (sleep) peacefully, soundly"
+2572,がたがた,"gatagata - with a rattling noise, unstable"
+2573,非常口,hijouguchi - emergency exit
+2574,ざらざら,"zarazara - rough, gritty"
+2575,ぬるぬる,nurunuru - slimy
+2576,女らしい,"onnarashii - womanly, feminine"
+2577,急用,kyuuyou - urgent business
+2578,きょろきょろ,kyorokyoro - look around
+2579,ぐずぐず,"guzuguzu - slowly, tardily"
+2580,ぽかぽか,pokapoka - pleasantly warm
+2581,洗い物,araimono - dishes to be washed
+2582,かっと,"katto - in a temper, in a rage"
+2583,どきっと,"dokitto - surprised, shocked"
+2584,乗り遅れる,"noriokureru - miss (a train, bus, etc.)"
+2585,くたくた,kutakuta - exhausted
+2586,すべすべ,"subesube - smooth, silky"
+2587,にやにや,niyaniya - grin to oneself
+2588,あだ名,adana - nickname
+2589,後片付け,atokataduke - cleaning up
+2590,イカ,ika - squid
+2591,うきうき,ukiuki - excitedly
+2592,可愛がる,"kawaigaru - love, cherish"
+2593,餃子,gyouza - Chinese dumpling
+2594,げらげら,geragera - (laugh) out loud
+2595,ごめん,gomen - sorry
+2596,明々後日,shiasatte - three days from today
+2597,削減,"sakugen - cutdown, reduction"
+2598,贅沢,"zeitaku - luxury, extravagance"
+2599,そのうち,"sonouchi - before long, sooner or later"
+2600,でこぼこ,"dekoboko - unevenness, bumpiness"
+2601,手のひら,tenohira - palm
+2602,裸足,hadashi - bare feet
+2603,べたべた,"betabeta - stick together, sticky"
+2604,眉毛,mayuge - eyebrows
+2605,割り箸,waribashi - disposable chopsticks
+2606,日付け,"hiduke - date (written in a document, etc.)"
+2607,ぴたりと,"pitarito - suddenly, coming to a dead stop"
+2608,まな板,manaita - chopping board
+2609,筆記用具,"hikkiyougu - pens and pencils, writing materials"
+2610,くすぐる,kusuguru - tickle
+2611,かんかん,"kankan - furiously angry, in a rage"
+2612,白線,hakusen - white (warning) line
+2613,見覚え,"mioboe - recognition, remembrance"
+2614,これまで,"koremade - until now, until here"
+2615,からす,"karasu - crow, raven"
+2616,噛み付く,kamitsuku - bite
+2617,白菜,hakusai - Chinese cabbage
+2618,プロ野球,puroyakyuu - professional baseball
+2619,かみそり,kamisori - razor
+2620,何十,nanjuu - several tens
+2621,何百,"nanbyaku - several hundred, hundreds"
+2622,何千,"nanzen - several thousand, thousands"
+2623,がくんと,"gakunto - sharply, significantly"
+2624,飛び下りる,"tobioriru - jump off, jump down"
+2625,通行止め,tsuukoudome - road closed
+2626,行き止まり,ikidomari - dead end
+2627,真ん丸,"manmaru - perfect circle, perfectly round"
+2628,いつの間に,itsunomani - without anyone noticing
+2629,くっ付ける,"kuttsukeru - attach (something), stick (something)"
+2630,付け足す,"tsuketasu - add on, append"
+2631,得する,"tokusuru - profitable, beneficial"
+2632,損する,"sonsuru - lose, suffer loss"
+2633,言い返す,iikaesu - talk back
+2634,体温計,taionkei - (clinical) thermometer
+2635,後戻り,"atomodori - turning back, retreat"
+2636,話し声,hanashigoe - talking voice
+2637,くるくる,"kurukuru - round and round, spin"
+2638,怖がる,"kowagaru - be afraid of, fear"
+2639,人違い,hitochigai - mistaken identity
+2640,取り返す,"torikaesu - take back, regain"
+2641,乗り降り,noriori - getting on and off
+2642,口喧嘩,kuchigenka - quarrel
+2643,起き上がる,"okiagaru - get up, rise"
+2644,ぶら下がる,"burasagaru - hang down, dangle"
+2645,飛び上がる,"tobiagaru - fly up, fump up"
+2646,泣き声,"nakigoe - tearful voice, sound of crying"
+2647,持ち物,mochimono - one’s belongings
+2648,細長い,"hosonagai - long and thin, long and narrow"
+2649,出入り口,"deiriguchi - doorway, gateway"
+2650,正座,seiza - sitting on one’s heels
+2651,大喜び,ooyorokobi - great joy
+2652,落とし物,otoshimono - lost property
+2653,じゃんじゃん,"janjan - many times, repeatedly"
+2654,見違える,michigaeru - look completely different
+2655,合理的,"gouriteki - rational, logical"
+2656,自主的,"jishuteki - voluntary, independent"
+2657,全面的,"zenmenteki - full-scale, complete"
+2658,円高,endaka - strong yen
+2659,消費者,shouhisha - consumer
+2660,日中,nicchuu - Japan and China
+2661,明日,asu - tomorrow (rather formal)
+2662,結構,"kekkou - all right, no thank you"
+2663,辛い,"tsurai - hard, painstaking"
+2664,まずい,"mazui - problematic, troublesome"
+2665,上下,jouge - top and bottom
+2666,生,"nama - raw, fresh"
+2667,よける,"yokeru - avoid, dodge"
+2668,がやがや,"gayagaya - noisily, loudly"
+2669,赤ん坊,akanbou - (human) baby
+2670,ワープロ,waapuro - word processor
+2671,新聞社,shinbunsha - newspaper publisher
+2672,寝かす,nekasu - put (someone) to bed
+2673,者,mono - person (humble)
+2674,中,"chuu - middle, medium size"
+2675,性,"sei - gender, sexual activities"
+2676,会,"kai - meeting, association"
+2677,事,"koto - thing, incident"
+2678,今日,konnichi - these days
+2679,点,"ten - point (of concern), dot"
+2680,バック,"bakku - back, reverse"
+2681,記事,"kiji - article, story"
+2682,大,"dai - big, large size"
+2683,法,"hou - law, rule"
+2684,非常,hijou - emergency
+2685,ただ,"tada - simply, merely"
+2686,感じ,"kanji - feeling, impression"
+2687,環境,"kankyou - environment, surroundings"
+2688,理解,"rikai - understanding, comprehension"
+2689,県,ken - prefecture
+2690,使用,shiyou - use
+2691,主義,"shugi - principle, -ism"
+2692,国民,kokumin - citizen
+2693,下,moto - under (someone’s) supervision
+2694,場,"ba - occasion, situation"
+2695,労働,"roudou - labor, work"
+2696,機会,"kikai - opportunity, chance"
+2697,製品,"seihin - product, manufactured goods"
+2698,自身,jishin - self
+2699,かかる,"kakaru - catch (a cold, etc.), come down with"
+2700,求める,"motomeru - seek, yearn for"
+2701,下さる,kudasaru - give (honorific)
+2702,昨日,sakujitsu - yesterday (formal)
+2703,元,"moto - origin, former"
+2704,型,"kata - type, model"
+2705,それぞれ,"sorezore - each, respectively"
+2706,地方,chihou - local region
+2707,面,"men - surface, side"
+2708,実は,jitsuha - actually
+2709,夜,"yoru - night, evening"
+2710,地,"chi - ground, place"
+2711,議論,"giron - discussion, debate"
+2712,以前,"izen - before, ago"
+2713,専門,"senmon - specialty, profession"
+2714,申し上げる,"moushiageru - tell, say (humble)"
+2715,行動,"koudou - action, conduct"
+2716,率,"ritsu - ratio, rate"
+2717,監督,"kantoku - supervisor, film director"
+2718,意識,"ishiki - consciousness, awareness"
+2719,認める,"mitomeru - recognize, permit"
+2720,参考,"sankou - reference, consultation"
+2721,チーム,chiimu - team
+2722,現実,genjitsu - reality
+2723,価値,"kachi - value, worth"
+2724,テーマ,"teema - theme, subject matter"
+2725,含む,"fukumu - contain, include"
+2726,際,"sai - opportunity, time"
+2727,全て,"subete - all, everything"
+2728,大臣,daijin - minister
+2729,国家,"kokka - state, nation"
+2730,試合,"shiai - match, game"
+2731,結局,"kekkyoku - after all, finally"
+2732,消費,"shouhi - consumption, spending"
+2733,人生,jinsei - one’s life (to lead)
+2734,量,"ryou - quantity, amount"
+2735,精神,"seishin - mind, mentality"
+2736,レベル,reberu - level
+2737,我々,wareware - we (literary)
+2738,指導,"shidou - guide, instruction"
+2739,明日,myounichi - tomorrow (very formal)
+2740,資料,"shiryou - materials, data"
+2741,団体,"dantai - group, organization"
+2742,最も,mottomo - the most
+2743,完全,"kanzen - perfect, complete"
+2744,品,"shina - goods, item"
+2745,男性,"dansei - male, man"
+2746,軍,gun - military
+2747,描く,"egaku - depict, draw"
+2748,最終,"saishuu - final, last (of something repeated)"
+2749,センター,"sentaa - center (for an activity, etc.), hub"
+2750,障害,"shougai - obstacle, disorder"
+2751,医療,"iryou - medical service, healthcare"
+2752,頂く,"itadaku - receive, eat (humble)"
+2753,金融,kinyuu - finance
+2754,学ぶ,"manabu - learn, study"
+2755,成長,seichou - growth
+2756,登場,"toujou - appearance (on stage, etc.)"
+2757,知識,chishiki - knowledge
+2758,友人,yuujin - friend (formal)
+2759,イメージ,imeeji - image
+2760,トップ,"toppu - top, the best"
+2761,税,zei - tax
+2762,変更,"henkou - alteration, change"
+2763,限り,kagiri - limit
+2764,式,shiki - ceremony
+2765,展開,"tenkai - development, storyline (plot)"
+2766,興味,kyoumi - interest
+2767,含める,fukumeru - include
+2768,編集,henshuu - editing
+2769,選択,"sentaku - selection, choice"
+2770,無料,"muryou - no charge, free"
+2771,身,"mi - body, oneself, one’s status"
+2772,分析,bunseki - analysis
+2773,予算,yosan - budget
+2774,目標,"mokuhyou - target, goal"
+2775,通信,"tsuushin - correspondence, communication"
+2776,向ける,"mukeru - turn toward, point at"
+2777,時刻,jikoku - time (formal)
+2778,逆,"gyaku - reverse, opposite"
+2779,最高,"saikou - supreme, best"
+2780,利益,"rieki - profit, benefit"
+2781,事務,"jimu - office work, business"
+2782,出版,"shuppan - publishing, publication"
+2783,プロ,puro - professional
+2784,様々,"samazama - various, diverse"
+2785,州,"shuu - state, province"
+2786,共通,kyoutsuu - commonality
+2787,現代,"gendai - present age, modern times"
+2788,被害,"higai - damage, harm"
+2789,新た,"arata - new, fresh"
+2790,相当,"soutou - suitability, equivalence"
+2791,更新,"koushin - renewal, update"
+2792,得る,"eru - obtain, gain"
+2793,内,uchi - inside
+2794,維持,"iji - maintenance, upkeep"
+2795,料金,"ryoukin - charge, fee (for using facilities, etc.)"
+2796,到着,touchaku - arrival
+2797,なま物,namamono - uncooked food
+2798,章,shou - chapter
+2799,メンバー,menbaa - member
+2800,演奏,ensou - musical performance
+2801,案,"an - plan, idea"
+2802,希望,"kibou - hope, wish"
+2803,記憶,"kioku - memory, remembrance"
+2804,モデル,moderu - model
+2805,方々,katagata - people (polite)
+2806,発売,"hatsubai - launch, release (of a product)"
+2807,話題,"wadai - topic of conversation, being talked about"
+2808,目指す,mezasu - aim for
+2809,建築,"kenchiku - construction, architecture"
+2810,印象,inshou - impression
+2811,権利,"kenri - right, privilege"
+2812,学習,"gakushuu - study, learning"
+2813,発展,"hatten - development, expansion"
+2814,現場,"genba - scene, job site"
+2815,気分,"kibun - feeling, mood"
+2816,移動,"idou - movement, shift"
+2817,発行,"hakkou - publication, issue"
+2818,宗教,shuukyou - religion
+2819,改正,"kaisei - revision, amendment"
+2820,倍,"bai - double, times"
+2821,不安,"fuan - uneasy, worried"
+2822,自ら,"mizukara - (for) oneself, personally"
+2823,広告,koukoku - advertisement
+2824,共同,"kyoudou - joint, cooperation"
+2825,年代,"nendai - generation, era"
+2826,タイプ,taipu - type
+2827,差,sa - difference
+2828,営業,"eigyou - business, sales"
+2829,役割,"yakuwari - role, duty, responsibility"
+2830,改善,kaizen - improvement
+2831,撮影,"satsuei - photographing, shoot"
+2832,エネルギー,enerugii - energy
+2833,憲法,"kenpou - constitution, constitutional law"
+2834,感謝,"kansha - gratitude, thanks"
+2835,感覚,"kankaku - sense, feel"
+2836,旅,"tabi - journey, travel"
+2837,合わせる,"awaseru - match (something), adapt (oneself)"
+2838,既に,sudeni - already
+2839,現状,"genjou - current condition, situation"
+2840,先日,"senjitsu - the other day, a few days ago"
+2841,中央,"chuuou - center, middle"
+2842,似る,"niru - resemble, be alike"
+2843,平均,heikin - average
+2844,末,"sue - the end, in the end"
+2845,追加,"tsuika - addition, supplement"
+2846,なさる,nasaru - do (honorific)
+2847,様子,"yousu - the state of affairs, how someone appears"
+2848,活用,"katsuyou - practical use, application"
+2849,交換,"koukan - exchange, bartering"
+2850,整備,seibi - maintenance
+2851,想像,souzou - imagination
+2852,ああ,"aa - like that, that much"
+2853,満足,"manzoku - satisfaction, contentment"
+2854,以降,"ikou - thereafter, later than"
+2855,比較,hikaku - comparison
+2856,クラス,"kurasu - class, category"
+2857,犯罪,"hanzai - offense, crime"
+2858,おっしゃる,"ossharu - say, tell (honorific)"
+2859,特定,"tokutei - specifying, identifying"
+2860,基礎,"kiso - base, foundation"
+2861,流れ,"nagare - flow, stream"
+2862,どうも,"doumo - for no special reason, somehow"
+2863,村,mura - village
+2864,安定,"antei - stability, composure"
+2865,本人,"honnin - the person himself, the said person"
+2866,雰囲気,"funiki - atmosphere, mood"
+2867,会場,"kaijou - venue, site"
+2868,電子,"denshi - electron, electronic"
+2869,文,bun - sentence
+2870,範囲,"hani - range, scope"
+2871,常に,"tsuneni - always, at all times (formal)"
+2872,失う,"ushinau - lose, miss"
+2873,日常,"nichijou - everyday life, daily life"
+2874,回答,"kaitou - reply, answer"
+2875,体制,"taisei - system, structure"
+2876,調整,"chousei - regulation, adjustment"
+2877,疑問,"gimon - question, doubt"
+2878,応援,"ouen - support, cheering"
+2879,感想,"kansou - thought, impression"
+2880,解説,"kaisetsu - explanation, commentary"
+2881,シリーズ,shiriizu - series
+2882,公共,"koukyou - public, community"
+2883,民間,"minkan - private, civilian"
+2884,裁判,"saiban - trial, judgment"
+2885,組合,"kumiai - union, guild"
+2886,本来,"honrai - originally, primarily"
+2887,一体,ittai - what on earth
+2888,宇宙,"uchuu - universe, space"
+2889,申す,"mousu - say, tell (humble)"
+2890,図,"zu - figure, diagram"
+2891,クラブ,kurabu - club
+2892,観光,kankou - sightseeing
+2893,提出,"teishutsu - presentation, submission (of a report, plan, etc.)"
+2894,以来,irai - since then
+2895,離れる,hanareru - get away from
+2896,生,"sei - life, living"
+2897,性格,"seikaku - character, personality"
+2898,検査,"kensa - inspection, examination"
+2899,信頼,"shinrai - reliance, trust"
+2900,人物,"jinbutsu - character, person"
+2901,触れる,"fureru - touch, come in contact with"
+2902,記念,"kinen - commemoration, memory"
+2903,役,"yaku - role, part"
+2904,費用,"hiyou - expense, cost"
+2905,指定,"shitei - designation, appointment"
+2906,感情,"kanjou - feeling, emotion"
+2907,空,"kara - emptiness, hollow"
+2908,関わる,"kakawaru - be involved, be concerned"
+2909,仲間,"nakama - comrade, peer"
+2910,整理,"seiri - putting something in order, sorting out"
+2911,至る,"itaru - come to, reach"
+2912,独立,"dokuritsu - independence, self-reliance"
+2913,賞,"shou - prize, award"
+2914,誕生,tanjou - birth
+2915,いらっしゃる,"irassharu - come, go (honorific)"
+2916,都,to - metropolis of Tokyo
+2917,全員,"zenin - all members, entire staff"
+2918,明確,meikaku - clear and specific
+2919,少なくとも,"sukunakutomo - at least, at a minimum"
+2920,セット,setto - set
+2921,魅力,"miryoku - charm, attraction"
+2922,きちんと,"kichinto - properly, neatly"
+2923,手段,"shudan - means, way"
+2924,有効,"yuukou - effective, valid"
+2925,集中,"shuuchuu - concentration, convergence"
+2926,現象,genshou - phenomenon
+2927,感動,"kandou - to be impressed, to be touched"
+2928,禁止,"kinshi - prohibition, forbiddance"
+2929,会員,"kaiin - member (of an association, society, etc.)"
+2930,過ごす,sugosu - spend (time)
+2931,納得,nattoku - to fully understand and accept
+2932,収入,shuunyuu - income
+2933,レポート,"repooto - report, paper"
+2934,年齢,nenrei - age
+2935,舞台,"butai - stage, setting"
+2936,交通,"koutsuu - traffic, transportation"
+2937,他人,"tanin - other people, stranger"
+2938,組,"kumi - school class, group, pair"
+2939,否定,"hitei - denial, negation"
+2940,扱う,"atsukau - handle, deal with"
+2941,修正,"shuusei - correction, revision"
+2942,一応,"ichiou - tentatively, just in case"
+2943,生じる,"shoujiru - happen, occur"
+2944,訪問,houmon - visit
+2945,引用,"inyou - quotation, citation"
+2946,芸術,"geijutsu - art, arts and crafts"
+2947,解釈,"kaishaku - interpretation, explanation"
+2948,行,"gyou - line, row"
+2949,結論,ketsuron - conclusion
+2950,困難,"konnan - difficulty, hardship"
+2951,回復,"kaifuku - recovery, recuperation"
+2952,適用,"tekiyou - application, coverage"
+2953,集団,"shuudan - group, mass"
+2954,事態,"jitai - situation, state of affairs"
+2955,スタート,"sutaato - start, begin"
+2956,更に,"sarani - furthermore, still more"
+2957,活躍,"katsuyaku - (successful) performance, action"
+2958,命,inochi - life (colloquial)
+2959,医師,"ishi - doctor, physician (formal)"
+2960,おる,"oru - be present, stay (humble)"
+2961,現れる,"arawareru - appear, emerge"
+2962,講演,"kouen - lecture, talk"
+2963,瞬間,shunkan - moment
+2964,交流,"kouryuu - interaction, contact"
+2965,標準,"hyoujun - standard, norm"
+2966,まるで,marude - just like
+2967,スタイル,"sutairu - style, physique"
+2968,関心,"kanshin - concern, interest"
+2969,取り上げる,"toriageru - take, confiscate"
+2970,伝統,dentou - tradition
+2971,民主,minshu - democracy
+2972,制限,"seigen - restriction, limit"
+2973,投票,"touhyou - vote, ballot"
+2974,心理,"shinri - mentality, psychology"
+2975,大体,"daitai - about, anyway"
+2976,突然,totsuzen - suddenly
+2977,思想,"shisou - thought, conception"
+2978,応じる,"oujiru - answer, comply with"
+2979,不足,"fusoku - lack, shortage"
+2980,コード,koodo - cord
+2981,世の中,"yononaka - the world, society"
+2982,項目,"koumoku - item, topic"
+2983,旧,"kyuu - old, former"
+2984,次第,shidai - as soon as
+2985,長期,chouki - long period
+2986,著者,"chosha - author, writer"
+2987,罪,"tsumi - crime, sin"
+2988,楽,"raku - comfortable, easy"
+2989,操作,"sousa - operation, manipulation"
+2990,支配,"shihai - control, rule"
+2991,態度,taido - attitude
+2992,過程,"katei - process, course"
+2993,バランス,baransu - balance
+2994,連続,"renzoku - continuation, series"
+2995,機関,"kikan - agency, facility"
+2996,論,"ron - argument, theory"
+2997,島,tou - island
