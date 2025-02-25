@@ -1,0 +1,47 @@
+html, body {
+    height: 100%;  /* removes white bars */
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: #F6E7D2; /* warm white background */
+    color: white;
+
+    font-family: 'Open Sans', Helvetica, sans-serif;
+}
+
+.mainclass {
+    background-color: #004040;
+    min-height: 100vh;  /* needed to remove white bars */
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+     /* max-width: 80%; */          /* used to customize side bars, but eventually I reversed the changes */
+    padding: 20px; /* Ensures spacing */
+}
+
+.container {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+h1, h2, h3, span {
+    color: white;
+
+}
+
+.job-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.job-title .left {
+    text-align: left;
+}
+
+.job-title .right {
+    text-align: right;
+}
