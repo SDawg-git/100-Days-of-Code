@@ -128,15 +128,15 @@ def add_cafe():
     return render_template("add.html", form=form)
 
 
-@app.route("/delete-cafe/<int:cafe_id>")
-def delete_cafe(cafe_id):
+@app.route("/delete-cafe/<int:del_id>")
+def delete_cafe(del_id):
 
-    cafe = db.session.get(Cafes, cafe_id)
+    cafe = db.session.get(Cafes, del_id)
+    db.session.delete(cafe)
+    db.session.commit()
 
-    pass
+    return redirect("cafes.html")
 
 if __name__ == '__main__':
     app.run(debug=True)
 
-
-# ADD ANOTHER TABLE WITH X, when pressed it passes the ID to a delete func
