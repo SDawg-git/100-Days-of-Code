@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% block title %}Add a Cafe{% endblock %}
+{% from 'bootstrap5/form.html' import render_form %}
+
+{% block content %}
+
+<div class="jumbotron text-center">
+    <div class="container">
+    <h1 class="display-4">Add a Task</h1>
+    <hr class="my-4">
+    </div>
+
+    <div class="container">
+        {{ render_form(form) }}
+    </div>
+
+
+
+</div>
+
+
+
+{% endblock %}
