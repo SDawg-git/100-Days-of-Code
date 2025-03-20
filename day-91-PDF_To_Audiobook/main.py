@@ -12,5 +12,5 @@ extracted_text = page.extract_text()
 
 
 tts = gTTS(extracted_text)
-tts.save('C:\\Users\\dzemo\\Desktop\\tts_test.mp3')
+tts.save(f'C:\\Users\\{user}\\Desktop\\tts_test.mp3')
 
