@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+{% block title %}Color Lister{% endblock %}
+
+
+{% block content %}
+
+
+<div class="jumbotron text-center">
+    <div class="container">
+        <h1 class="display-4">Color Lister</h1>
+        <hr class="my-4">
+    </div>
+
+
+    <form action="{{ url_for('home') }}" method="POST" enctype="multipart/form-data">
+        <label for="pic">Upload picture:</label>
+        <input type="file" id="pic" name="picture" accept="image/png, image/jpeg" required />
+        <div>
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 75vh; gap: 10px;">
+        {% for code in hexcodes %}
+        <div style="display: flex; align-items: center; gap: 20px;">
+            <!-- HEX Code -->
+            <span style="font-size: 18px; font-weight: bold;">{{ code }}</span>
+
+            <!-- Color Square -->
+            <div style="width: 50px; height: 50px; background-color: {{ code }}; border: 1px solid black;"></div>
+        </div>
+        {% endfor %}
+    </div>
+
+</div>
+
+
+
+
+{% endblock %}
