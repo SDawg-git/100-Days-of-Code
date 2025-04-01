@@ -10,11 +10,14 @@ class Projectile(Turtle):
         self.shapesize(0.75, 0.25)
         self.setposition(x=0, y=-220)
         self.goto(start_x, start_y)
-        self.speed = 5
+        self.speed = 8
         self.active = True
+
 
     def move_projectile(self):
         if self.ycor() < 270:
             self.sety(self.ycor() + self.speed)
         else:
             self.active = False
+
+
