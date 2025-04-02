@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+{% block title %}Brewery API{% endblock %}
+
+
+{% block content %}
+
+
+    <div class="jumbotron text-center">
+    <div class="container">
+        <h1 class="display-4">Brewery API site</h1>
+        <a class="btn btn-warning btn-lg" href="https://www.openbrewerydb.org/documentation" role="button">API Here</a>
+        <a class="btn btn-warning btn-lg" href="{{url_for('all_breweries')}}" role="button">All breweries</a>
+        <hr class="my-4">
+    </div>
+
+
+    <form method="POST" action="{{url_for('by_city')}}">
+        <div class="container d-flex align-items-center gap-3">
+            <p class="display-6 mb-0">Search breweries by city</p>
+            <input type="text" id="city_name" name="city_name">
+            <button type="submit" class="btn btn-primary btn-lg">Search</button>
+        </div>
+    </form>
+
+    <form method="POST" action="{{url_for('by_name')}}">
+        <div class="container d-flex align-items-center gap-3">
+            <p class="display-6 mb-0">Search breweries by name</p>
+            <input type="text" id="brewery_name" name="brewery_name">
+            <button type="submit" class="btn btn-primary btn-lg">Search</button>
+        </div>
+    </form>
+
+
+    <form method="POST" action="{{url_for('by_type')}}">
+        <div class="container d-flex align-items-center gap-3">
+            <p class="display-6 mb-0">Search breweries by type</p>
+            <select name="brewery_types" id="types">
+              <option value=micro">micro</option>
+              <option value="nano">nano</option>
+              <option value="regional">regional</option>
+              <option value="brewpub">brewpub</option>
+              <option value="large">large</option>
+              <option value="planning">planning</option>
+              <option value="bar">bar</option>
+              <option value="contract">contract</option>
+              <option value="proprietor">proprietor</option>
+              <option value="closed">closed</option>
+            </select>
+            <button type="submit" class="btn btn-primary btn-lg">Search</button>
+        </div>
+    </form>
+
+</div>
+
+
+
+{% endblock %}
