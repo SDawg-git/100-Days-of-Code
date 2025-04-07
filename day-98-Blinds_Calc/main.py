@@ -1,4 +1,6 @@
 #upload when back
 
 
-#renenber to add the cost of clear rods
+# Remember to add the cost of clear rods
+
+#make sure an invoice email is sent when done
