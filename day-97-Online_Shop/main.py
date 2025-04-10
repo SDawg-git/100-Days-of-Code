@@ -58,6 +58,8 @@ class User(db.Model, UserMixin):
     email: Mapped[str] = mapped_column(String(250), unique=True, nullable=False)
     password: Mapped[str] = mapped_column(String(250), nullable=False)
 
+    cart_items = db.relationship("Cart", back_populates="user", cascade="all, delete-orphan")
+
 # CONFIGURE PRODUCT TABLE
 class Product(db.Model):
     __tablename__ = "Product"
@@ -69,17 +71,35 @@ class Product(db.Model):
 
 # CONFIGURE CART TABLE
 class Cart(db.Model):
+    __tablename__ = "Cart"
     id = db.Column(db.Integer, primary_key=True)
-    user_id = db.Column(db.Integer, db.ForeignKey("User.id"), nullable=False)
-    product_id = db.Column(db.Integer, db.ForeignKey("Product.id"), nullable=False)
+    user_id = db.Column(db.Integer, db.ForeignKey("User.id"))
+    product_id = db.Column(db.Integer, db.ForeignKey("Product.id"))
     quantity = db.Column(db.Integer, default=1)
+
+    user = db.relationship("User", back_populates="cart_items")
+    product = db.relationship("Product")
 
 
 with app.app_context():
     db.create_all()
 
-
-# new_product = Product(
+# CREATE TEST PRODUCTS
+# product1 = Product(
+#     item_name = "Banana",
+#     item_description = "Yellow Fruit",
+#     item_price = 2.49,
+#     item_picture = "https://fruitfortheoffice.co.uk/media/catalog/product/cache/22f8b13a74fce530a016d5f78df80ce0/b/a/banana_each_500x500_.png"
+# )
+#
+# product2 = Product(
+#     item_name = "Shoe",
+#     item_description = "Shoe for left foot",
+#     item_price = 16.99,
+#     item_picture = "https://www.legendfootwear.co.uk/cdn/shop/files/7358-1-1.jpg?v=1714140788"
+# )
+#
+# product3 = Product(
 #     item_name = "Sword",
 #     item_description = "Long and sharp",
 #     item_price = 299.99,
@@ -87,7 +107,9 @@ with app.app_context():
 # )
 #
 # with app.app_context():
-#     db.session.add(new_product)
+#     db.session.add(product1)
+#     db.session.add(product2)
+#     db.session.add(product3)
 #     db.session.commit()
 
 @app.route('/')
@@ -178,7 +200,7 @@ def login():
 @app.route('/logout')
 def logout():
     logout_user()
-    return redirect(url_for('get_all_posts'))
+    return redirect(url_for('home'))
 
 
 
@@ -193,23 +215,53 @@ def add_to_cart():
         product_id = request.form['product_id']
         quantity = request.form['quantity']
         user_id = current_user.id
-        print(product_id)
-        print(quantity)
-        print(user_id)
+        # print(product_id)
+        # print(quantity)
+        # print(user_id)
 
         result = db.get_or_404(Product, product_id)
-        print(result.item_name)
+        # print(result.item_name)
+
+        # CODE BELOW WAS SCRAPPED, NO NEED TO CHECK FOR CARTS IT JUST ADDS A NEW ONE - ONE CART PER ITEMS OF SAME ID
+        # WHEN SEARCHING THE DB WE WILL SEARCH BY USER ID TO FIND ALL THE CARTS AND DISPLAY INFO
 
         #checks if cart exists, if not creates it
-        cart_check = db.session.get(Cart, user_id)
-        if not cart_check:
-            print("cart no exist")
-        else:
-            print("exists")
+        #user_cart = db.session.get(Cart, user_id)
+        # if not user_cart:
+        #     print("cart no exist")
+        #     new_cart = Cart(
+        #         user_id = user_id,
+        #         product_id = product_id,
+        #         quantity = quantity
+        #     )
+        #
+        # else:
+        #     print("exists")
+
+        new_cart = Cart(
+            user_id = user_id,
+            product_id = product_id,
+            quantity = quantity
+        )
+        db.session.add(new_cart)
+        db.session.commit()
 
         return redirect(url_for('home'))
 
+@app.route('/show-cart')
+def show_cart():
+    user_id = current_user.id
+    #IF NOTHING IN CART, JUST SHOW "EMPTY"
+    results = db.session.execute(db.select(Cart).where(Cart.user_id == user_id))
+    cart_items = "blank"
 
+    return render_template("cart.html", cart_items =  cart_items)
+
+
+@app.after_request
+def add_header(response):
+    response.headers["Cache-Control"] = "no-store"
+    return response
 
 if __name__ == "__main__":
     app.run(debug=True, port=5001)
