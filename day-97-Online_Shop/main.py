@@ -253,9 +253,32 @@ def show_cart():
     user_id = current_user.id
     #IF NOTHING IN CART, JUST SHOW "EMPTY"
     results = db.session.execute(db.select(Cart).where(Cart.user_id == user_id))
-    cart_items = "blank"
+    cart_items = results.scalars().all()
 
-    return render_template("cart.html", cart_items =  cart_items)
+    print(cart_items)
+
+    for item in cart_items:
+        print(f"Product: {item.product.item_name}, Quantity: {item.quantity}")
+        print(item.id)
+
+    return render_template("cart.html", user=current_user, cart_items =  cart_items)
+    #return redirect(url_for("home"))
+
+
+
+@app.route('/remove-from-cart', methods=["POST"])
+def remove_from_cart():
+
+    cart_id = int(request.form['cart_id'])
+    result = db.session.execute(db.select(Cart).where(Cart.id == cart_id)).scalar()
+    db.session.delete(result)
+    db.session.commit()
+    #flash("Item removed from cart")
+
+
+
+    return redirect(url_for('show_cart'))
+
 
 
 @app.after_request
