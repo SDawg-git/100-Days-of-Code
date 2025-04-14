@@ -9,6 +9,9 @@
   <div class="container py-5">
     <h2 class="text-center mb-5 text-white">🛒 Your Cart</h2>
 
+      {% if not cart_items %}
+      <h1 class="text-center text-white">Your cart is empty! </h1>
+      {% else %}
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
       {% for item in cart_items %}
       <div class="col">
@@ -20,6 +23,7 @@
               <p class="card-text small">{{ item.product.item_description }}</p>
               <p class="fw-bold mb-3">£{{ item.product.item_price }}</p>
               <p class="text-muted small">Quantity: {{ item.quantity }}</p>
+              <p class="fw-bold mb-3">Total:{{ (item.product.item_price * item.quantity)|round(2) }}</p>
             </div>
             <form action="{{ url_for('remove_from_cart') }}" method="POST">
               <input type="hidden" name="cart_id" value="{{ item.id }}">
@@ -30,6 +34,7 @@
       </div>
       {% endfor %}
     </div>
+      {% endif %}
   </div>
 
 
