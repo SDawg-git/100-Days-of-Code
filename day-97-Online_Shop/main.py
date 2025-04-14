@@ -251,7 +251,7 @@ def add_to_cart():
 @app.route('/show-cart')
 def show_cart():
     user_id = current_user.id
-    #IF NOTHING IN CART, JUST SHOW "EMPTY"
+
     results = db.session.execute(db.select(Cart).where(Cart.user_id == user_id))
     cart_items = results.scalars().all()
 
