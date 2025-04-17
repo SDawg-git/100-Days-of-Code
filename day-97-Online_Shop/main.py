@@ -1,4 +1,6 @@
 from datetime import date
+
+import requests
 from flask import Flask, abort, render_template, redirect, url_for, flash, request
 from flask_bootstrap import Bootstrap5
 from flask_ckeditor import CKEditor
@@ -11,7 +13,7 @@ from werkzeug.security import generate_password_hash, check_password_hash
 from forms import RegisterForm, LoginForm
 
 
-
+client_id = os.environ.get['CLIENT_ID']
 
 
 app = Flask(__name__)
@@ -86,10 +88,10 @@ with app.app_context():
 
 # CREATE TEST PRODUCTS
 # product1 = Product(
-#     item_name = "Banana",
-#     item_description = "Yellow Fruit",
-#     item_price = 2.49,
-#     item_picture = "https://fruitfortheoffice.co.uk/media/catalog/product/cache/22f8b13a74fce530a016d5f78df80ce0/b/a/banana_each_500x500_.png"
+#     item_name = "1 Pence",
+#     item_description = "Self Explanatory",
+#     item_price = 0.01,
+#     item_picture = "https://blog.changechecker.org/umbraco/ImageGen.ashx?pad=true&constrain=false&height=500&width=500&image=/coin-images/215/Change-Checker-App-1p-2.png"
 # )
 #
 # product2 = Product(
@@ -255,13 +257,13 @@ def show_cart():
     results = db.session.execute(db.select(Cart).where(Cart.user_id == user_id))
     cart_items = results.scalars().all()
 
-    print(cart_items)
+    #print(cart_items)
 
-    for item in cart_items:
-        print(f"Product: {item.product.item_name}, Quantity: {item.quantity}")
-        print(item.id)
+    # for item in cart_items:
+    #     print(f"Product: {item.product.item_name}, Quantity: {item.quantity}")
+    #     print(item.id)
 
-    return render_template("cart.html", user=current_user, cart_items =  cart_items)
+    return render_template("cart.html", user=current_user, cart_items =  cart_items, client_id = client_id)
     #return redirect(url_for("home"))
 
 
@@ -279,6 +281,30 @@ def remove_from_cart():
 
     return redirect(url_for('show_cart'))
 
+#THIS ROUTE IS ONLY USED FOR REDIRECTING, IMPROVED THE PAYMENT METHOD
+@app.route('/checkout', methods=["POST"])
+def checkout():
+
+    client_id = os.environ.get['CLIENT_ID']
+    secret_key = "os.environ.get['SECRET_KEY']
+    auth_url = "https://api-m.sandbox.paypal.com/v1/oauth2/token"
+    data = {
+        "grant_type" : "client_credentials"
+            }
+
+    headers = {
+        "Accept" : "application/json",
+        "Accept-Language": "en_US"
+            }
+
+    paypal_request = requests.post(url=auth_url, auth=(client_id, secret_key) ,headers=headers, data=data).json()
+    access_token = paypal_request['access_token']
+    print(access_token)
+
+    cart_total = request.form['cart_total']
+    print(cart_total)
+
+    return redirect(url_for("home"))
 
 
 @app.after_request
