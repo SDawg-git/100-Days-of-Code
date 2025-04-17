@@ -3,11 +3,17 @@
 
 
 
-<body style="background: url('../static/assets/img/home-bg.jpg') no-repeat center center fixed; background-size: cover;">
+<body style="background: url('{{ url_for('static', filename='assets/img/home-bg.jpg') }}') no-repeat center center fixed; background-size: cover;">
+
+
+<script src="https://www.paypal.com/sdk/js?client-id={{ client_id }}&currency=GBP"></script>
+
 
 
   <div class="container py-5">
     <h2 class="text-center mb-5 text-white">🛒 Your Cart</h2>
+
+      {% set total = namespace(value=0) %}
 
       {% if not cart_items %}
       <h1 class="text-center text-white">Your cart is empty! </h1>
@@ -23,8 +29,9 @@
               <p class="card-text small">{{ item.product.item_description }}</p>
               <p class="fw-bold mb-3">£{{ item.product.item_price }}</p>
               <p class="text-muted small">Quantity: {{ item.quantity }}</p>
-              <p class="fw-bold mb-3">Total:{{ (item.product.item_price * item.quantity)|round(2) }}</p>
+              <p class="fw-bold mb-3">Total: £{{ (item.product.item_price * item.quantity)|round(2) }}</p>
             </div>
+              {% set total.value = total.value + (item.product.item_price * item.quantity) %}       <!-- adds cost of each item to total -->
             <form action="{{ url_for('remove_from_cart') }}" method="POST">
               <input type="hidden" name="cart_id" value="{{ item.id }}">
               <button type="submit" class="btn btn-danger btn-sm mt-3">Remove from Cart</button>
@@ -34,8 +41,49 @@
       </div>
       {% endfor %}
     </div>
+          <div class="d-flex justify-content-center mt-5">
+                <div class="text-center p-4 rounded" style="background-color: rgba(255, 255, 255, 1);">
+                        <p class="text-black big">Cart Total: £{{ total.value | round(2) }}</p>
+                        <p class="text-black small">You’ll be redirected to PayPal to complete your purchase.</p>
+                        <div id="paypal-button-container" class="mb-3"></div>
+                </div>
+          </div>
+
       {% endif %}
   </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (typeof paypal !== 'undefined') {
+      paypal.Buttons({
+        createOrder: function(data, actions) {
+          return actions.order.create({
+            purchase_units: [{
+              amount: {
+                value: '{{ total.value | round(2) }}'
+              }
+            }]
+          });
+        },
+        onApprove: function(data, actions) {
+          return actions.order.capture().then(function(details) {
+            alert('Transaction completed by ' + details.payer.name.given_name + '!');
+            window.location.href = "{{ url_for('checkout') }}";
+          });
+        }
+      }).render('#paypal-button-container');
+    } else {
+      console.error("PayPal SDK not loaded");
+    }
+  });
+</script>
+
+
+<script>
+  if (typeof paypal === 'undefined') {
+    console.error('PayPal SDK not loaded.');
+  }
+</script>
 
 
 {% include "footer.html" %}
