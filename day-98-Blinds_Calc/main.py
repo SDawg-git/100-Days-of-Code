@@ -11,6 +11,8 @@
 
 #make sure to follow the vid to package the app correctly so it can be ran as an .exe
 
+#ADD 20% OF TOTAL COST OF BLIND PER ADDON
+
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
