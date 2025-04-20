@@ -13,6 +13,9 @@
 
 #ADD 20% OF TOTAL COST OF BLIND PER ADDON
 
+#dropdown list with all email addresses to send invoices to + button to add more
+
+
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
